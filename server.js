@@ -1044,10 +1044,8 @@ async function buildDashboardData(targetYear, forceRefresh = false) {
 
   notes.push("보도자료는 고용노동부 공식 보도자료 목록에서 수집합니다.");
   notes.push("조직 기준은 기관소개 > 조직안내 > 본부 > 산업안전보건본부 구조를 사용합니다.");
-  notes.push("집계 대상은 소속 과/팀/담당관이며, 상위조직(정책실·정책관·감독국·추진단)은 제외합니다.");
   notes.push("보도자료가 여러 과에서 공동 작성된 경우, 해당 보도자료를 관련 모든 과에 반영합니다.");
-  notes.push("화학사고예방과는 화학사고예방조사과로 통합해 집계합니다.");
-  notes.push(`연도 ${selectedYear}년 기준으로 과별 보도자료 건수와 목록(발행일/제목)을 제공합니다.`);
+  notes.push("최근 3년 간 과별 보도자료 건수와 목록(발행일/제목)을 제공합니다.");
   if (!yearlyReleaseCount) {
     notes.push(`${selectedYear}년에 산업안전보건본부 소속과로 분류된 보도자료가 확인되지 않았습니다.`);
   }
