@@ -958,9 +958,29 @@ async function collectSafetyHeadquartersPress(targetYear) {
   };
 }
 
+async function getOrganizationWithSnapshotFallback() {
+  // 캐시에 이미 있으면 바로 반환
+  if (orgCache.data && orgCache.data.departments.length) {
+    return orgCache.data;
+  }
+  // 스냅샷에서 조직정보 로드 시도 (moel.go.kr 요청 없이)
+  const currentYear = currentKstYear();
+  for (const year of [currentYear, currentYear - 1, currentYear - 2]) {
+    const snapshot = await loadDashboardSnapshot(year);
+    if (snapshot?.officialDepartments?.length) {
+      const org = { departments: snapshot.officialDepartments };
+      orgCache.data = org;
+      orgCache.fetchedAt = Date.now();
+      return org;
+    }
+  }
+  // 스냅샷도 없으면 실시간 수집
+  return fetchSafetyHqOrganization().catch(() => ({ departments: [] }));
+}
+
 async function buildReleaseNewsData(newsSeq) {
   const [organization, detail] = await Promise.all([
-    fetchSafetyHqOrganization().catch(() => ({ departments: [] })),
+    getOrganizationWithSnapshotFallback(),
     fetchMoelPressDetail(newsSeq),
   ]);
   const officialDeptMap = buildDepartmentNameMap(organization.departments || []);
