@@ -1,0 +1,62 @@
+﻿<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>산업안전보건본부 보도자료 추적</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="layout">
+      <header class="hero">
+        <div>
+          <p class="hero-kicker">MOEL Press & News Tracker</p>
+          <h1>산업안전보건본부 보도자료 추적</h1>
+          <p class="hero-desc">
+            고용노동부 조직안내(산업안전보건본부) 기준 소속 과/팀별 보도자료 건수를 연도별로 확인하고, 각 과의 보도자료 목록(발행일·제목)을 빠르게 조회할 수 있습니다.
+          </p>
+        </div>
+        <div class="hero-meta">
+          <button id="refreshBtn" type="button">새로 수집</button>
+          <p id="updatedAt">수집 시각: -</p>
+        </div>
+      </header>
+
+      <section class="card">
+        <h2>공식 출처</h2>
+        <div id="sourceBox"></div>
+      </section>
+
+      <section class="card">
+        <div class="section-head">
+          <h2>과별 보도자료 현황</h2>
+          <div class="year-controls">
+            <label for="yearSelect">연도</label>
+            <select id="yearSelect"></select>
+            <button id="yearApplyBtn" type="button">연도 조회</button>
+          </div>
+        </div>
+        <p id="yearMeta" class="meta"></p>
+        <div id="departmentBoard" class="dept-board"></div>
+      </section>
+
+      <section class="card">
+        <h2>선택한 과 보도자료 목록</h2>
+        <p id="totalCount" class="meta"></p>
+        <div id="pressList"></div>
+      </section>
+
+      <section class="card">
+        <h2>수집 기준</h2>
+        <ul id="notesList" class="note-list"></ul>
+      </section>
+    </main>
+
+    <div id="loadingOverlay" class="loading-overlay hidden">
+      <div class="spinner"></div>
+      <p>공식 보도자료를 수집하고 집계 중입니다. 잠시만 기다려 주세요.</p>
+    </div>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
