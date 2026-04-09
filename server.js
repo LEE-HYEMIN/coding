@@ -948,10 +948,12 @@ async function collectSafetyHeadquartersPress(targetYear) {
 }
 
 async function buildReleaseNewsData(newsSeq) {
-  const organization = await fetchSafetyHqOrganization();
+  const [organization, detail] = await Promise.all([
+    fetchSafetyHqOrganization(),
+    fetchMoelPressDetail(newsSeq),
+  ]);
   const officialDeptMap = buildDepartmentNameMap(organization.departments || []);
 
-  const detail = await fetchMoelPressDetail(newsSeq);
   const departments = extractDepartmentsFromContent(detail.content);
   const match = findMatchedSafetyDepartments(detail, departments, officialDeptMap);
   const matchedDepartments = match.departments || [];
@@ -1162,7 +1164,10 @@ app.get("/api/release-news", async (req, res) => {
     }
 
     const forceRefresh = req.query.refresh === "1";
-    const data = await getReleaseNewsData(newsSeq, forceRefresh);
+    const onVercel = Boolean(process.env.VERCEL);
+    const data = onVercel
+      ? await withTimeout(getReleaseNewsData(newsSeq, forceRefresh), VERCEL_FETCH_TIMEOUT_MS, "release-news-timeout")
+      : await getReleaseNewsData(newsSeq, forceRefresh);
     res.json(data);
   } catch (error) {
     console.error("[release-news] failed:", error);
