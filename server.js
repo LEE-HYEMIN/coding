@@ -1101,6 +1101,11 @@ async function getDashboardData(targetYear, forceRefresh = false) {
 
   const fallbackSnapshot = await loadDashboardSnapshot(selectedYear);
 
+  // Vercel 환경: 스냅샷이 있으면 즉시 반환 (타임아웃 위험 없음)
+  if (onVercel && fallbackSnapshot && !forceRefresh) {
+    return fallbackSnapshot;
+  }
+
   const inFlight = (async () => {
     try {
       if (onVercel) {
