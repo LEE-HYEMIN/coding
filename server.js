@@ -1,5 +1,6 @@
 ﻿const express = require("express");
 const path = require("path");
+const fs = require("fs/promises");
 const cheerio = require("cheerio");
 
 const app = express();
@@ -12,6 +13,8 @@ const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
 const MOEL_BASE = "https://www.moel.go.kr";
+const SNAPSHOT_YEARS = 3;
+const VERCEL_FETCH_TIMEOUT_MS = Number(process.env.VERCEL_FETCH_TIMEOUT_MS || 9000);
 const CACHE_TTL_MS = 15 * 60 * 1000;
 const ORG_CACHE_TTL_MS = 24 * 60 * 60 * 1000;
 const YEARS_CACHE_TTL_MS = 24 * 60 * 60 * 1000;
@@ -75,6 +78,16 @@ function currentKstYear() {
   return Number(
     new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Seoul", year: "numeric" }).format(new Date())
   );
+}
+
+function withTimeout(promise, timeoutMs, label = "timeout") {
+  return new Promise((resolve, reject) => {
+    const timer = setTimeout(() => reject(new Error(`${label}: ${timeoutMs}ms`)), timeoutMs);
+    promise.then(
+      (val) => { clearTimeout(timer); resolve(val); },
+      (err) => { clearTimeout(timer); reject(err); }
+    );
+  });
 }
 
 function parseTargetYear(value) {
@@ -1060,10 +1073,22 @@ async function buildDashboardData(targetYear, forceRefresh = false) {
   };
 }
 
+async function loadDashboardSnapshot(year) {
+  try {
+    const filePath = path.join(__dirname, "snapshots", `dashboard-${year}.json`);
+    const raw = await fs.readFile(filePath, "utf8");
+    const data = JSON.parse(raw);
+    return data;
+  } catch {
+    return null;
+  }
+}
+
 async function getDashboardData(targetYear, forceRefresh = false) {
   const selectedYear = parseTargetYear(targetYear);
   const key = String(selectedYear);
   const now = Date.now();
+  const onVercel = Boolean(process.env.VERCEL);
 
   const cached = cache.byYear.get(key);
   if (!forceRefresh && cached && now - cached.updatedAt < CACHE_TTL_MS) {
@@ -1074,12 +1099,29 @@ async function getDashboardData(targetYear, forceRefresh = false) {
     return cache.inFlightByYear.get(key);
   }
 
-  const inFlight = buildDashboardData(selectedYear, forceRefresh)
+  const fallbackSnapshot = await loadDashboardSnapshot(selectedYear);
+
+  const inFlight = (async () => {
+    try {
+      if (onVercel) {
+        return await withTimeout(
+          buildDashboardData(selectedYear, forceRefresh),
+          VERCEL_FETCH_TIMEOUT_MS,
+          "dashboard-fetch-timeout"
+        );
+      }
+      return await buildDashboardData(selectedYear, forceRefresh);
+    } catch (error) {
+      if (fallbackSnapshot) {
+        const notes = [...(fallbackSnapshot.notes || [])];
+        notes.unshift(`실시간 수집 실패로 스냅샷 데이터를 표시합니다. (${error.message})`);
+        return { ...fallbackSnapshot, notes };
+      }
+      throw error;
+    }
+  })()
     .then((data) => {
-      cache.byYear.set(key, {
-        data,
-        updatedAt: Date.now(),
-      });
+      cache.byYear.set(key, { data, updatedAt: Date.now() });
       return data;
     })
     .finally(() => {
