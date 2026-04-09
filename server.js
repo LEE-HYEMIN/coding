@@ -354,12 +354,23 @@ async function fetchWithTimeout(url, options = {}, timeoutMs = 25000) {
   }
 }
 
-async function fetchText(url, options = {}, timeoutMs = 25000) {
-  const response = await fetchWithTimeout(url, options, timeoutMs);
-  if (!response.ok) {
-    throw new Error(`요청 실패 (${response.status}) - ${url}`);
+async function fetchText(url, options = {}, timeoutMs = 25000, retries = 2) {
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    try {
+      const response = await fetchWithTimeout(url, options, timeoutMs);
+      if (!response.ok) {
+        throw new Error(`요청 실패 (${response.status}) - ${url}`);
+      }
+      return response.text();
+    } catch (error) {
+      const isRetryable = error.cause?.code === "ECONNRESET" || error.cause?.code === "ECONNREFUSED";
+      if (isRetryable && attempt < retries) {
+        await new Promise((r) => setTimeout(r, 500 * (attempt + 1)));
+        continue;
+      }
+      throw error;
+    }
   }
-  return response.text();
 }
 
 function parseMoelPressRows(html, pageUrl) {
@@ -949,7 +960,7 @@ async function collectSafetyHeadquartersPress(targetYear) {
 
 async function buildReleaseNewsData(newsSeq) {
   const [organization, detail] = await Promise.all([
-    fetchSafetyHqOrganization(),
+    fetchSafetyHqOrganization().catch(() => ({ departments: [] })),
     fetchMoelPressDetail(newsSeq),
   ]);
   const officialDeptMap = buildDepartmentNameMap(organization.departments || []);
