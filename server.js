@@ -823,7 +823,10 @@ function filterAndRankNews(press, newsItems) {
   let filtered = applyDateFilter(scored.filter((row) => row.score >= 8));
   if (filtered.length < 4) filtered = applyDateFilter(scored.filter((row) => row.score >= 6));
   if (filtered.length < 2) filtered = applyDateFilter(scored.filter((row) => row.score >= 4));
-  if (!filtered.length) filtered = applyDateFilter(scored.filter((row) => row.score >= 2));
+  if (filtered.length < 2) filtered = applyDateFilter(scored.filter((row) => row.score >= 2));
+  if (filtered.length < 2) filtered = applyDateFilter(scored.filter((row) => row.score >= 1));
+  // 점수와 무관하게 날짜 조건 맞는 결과라도 반환
+  if (!filtered.length) filtered = applyDateFilter(scored);
 
   return filtered
     .sort((a, b) => {
@@ -1014,6 +1017,7 @@ async function buildReleaseNewsData(newsSeq) {
     departments: matchedDepartments,
     relatedNewsCount: relatedNews.length,
     relatedNews,
+    _debug: { contentLength: detail.content?.length || 0, publishedAtObj: detail.publishedAtObj },
   };
 }
 
