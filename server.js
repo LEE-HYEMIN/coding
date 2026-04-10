@@ -696,7 +696,6 @@ function buildNewsQueries(press) {
   const contentLead = uniqueBy(contentTokens, (item) => item).slice(0, 4);
 
   const queries = [];
-  if (shortTitle) queries.push(`"${shortTitle}" 고용노동부`);
   if (shortTitle) queries.push(`${shortTitle} 고용노동부`);
   if (keywords.length) queries.push(`${keywords.slice(0, 6).join(" ")} 고용노동부`);
   if (deptLeadToken || contentLead.length) {
