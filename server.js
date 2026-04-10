@@ -988,10 +988,35 @@ async function getOrganizationWithSnapshotFallback() {
   return fetchSafetyHqOrganization().catch(() => ({ departments: [] }));
 }
 
+async function getPressDetailWithSnapshotFallback(newsSeq) {
+  try {
+    return await fetchMoelPressDetail(newsSeq);
+  } catch {
+    // moel.go.kr 실패 시 스냅샷에서 기본 정보 검색
+    const currentYear = currentKstYear();
+    for (const year of [currentYear, currentYear - 1, currentYear - 2]) {
+      const snapshot = await loadDashboardSnapshot(year);
+      const found = snapshot?.items?.find((item) => item.newsSeq === newsSeq);
+      if (found) {
+        return {
+          newsSeq: found.newsSeq,
+          title: found.title,
+          publishedAt: found.publishedAt,
+          publishedAtObj: parseDateText(found.publishedAt),
+          url: found.url,
+          content: found.title,
+          viewerFiles: [],
+        };
+      }
+    }
+    throw new Error(`보도자료 정보를 가져올 수 없습니다. (newsSeq: ${newsSeq})`);
+  }
+}
+
 async function buildReleaseNewsData(newsSeq) {
   const [organization, detail] = await Promise.all([
     getOrganizationWithSnapshotFallback(),
-    fetchMoelPressDetail(newsSeq),
+    getPressDetailWithSnapshotFallback(newsSeq),
   ]);
   const officialDeptMap = buildDepartmentNameMap(organization.departments || []);
 
