@@ -722,14 +722,22 @@ async function fetchNaverNewsByQuery(query) {
   const json = await response.json();
   const rows = [];
 
+  const decodeHtml = (str) =>
+    str.replace(/<[^>]+>/g, "").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#039;/g, "'");
+
   for (const item of json.items || []) {
-    const title = normalizeText(item.title.replace(/<[^>]+>/g, ""));
-    const description = normalizeText(item.description.replace(/<[^>]+>/g, ""));
+    const title = normalizeText(decodeHtml(item.title || ""));
+    const description = normalizeText(decodeHtml(item.description || ""));
     const pubDateObj = parseDateText(item.pubDate);
     if (!title || !item.link) continue;
 
+    let source = "네이버 뉴스";
+    try {
+      if (item.originallink) source = new URL(item.originallink).hostname.replace(/^www\./, "");
+    } catch {}
+
     rows.push({
-      source: normalizeText(item.originallink ? new URL(item.originallink).hostname.replace(/^www\./, "") : "네이버 뉴스"),
+      source: normalizeText(source),
       title,
       description,
       publishedAt: pubDateObj ? formatDate(pubDateObj) : item.pubDate,
