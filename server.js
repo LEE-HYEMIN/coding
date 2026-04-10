@@ -1141,7 +1141,15 @@ async function getDashboardData(targetYear, forceRefresh = false) {
 
   // Vercel 환경: 스냅샷이 있으면 즉시 반환 (타임아웃 위험 없음)
   if (onVercel && fallbackSnapshot && !forceRefresh) {
-    return fallbackSnapshot;
+    const currentYear = currentKstYear();
+    const snapshotYears = await Promise.all(
+      [currentYear, currentYear - 1, currentYear - 2].map(async (y) => {
+        const s = await loadDashboardSnapshot(y);
+        return s ? y : null;
+      })
+    );
+    const availableYears = snapshotYears.filter(Boolean).sort((a, b) => b - a);
+    return { ...fallbackSnapshot, availableYears };
   }
 
   const inFlight = (async () => {
