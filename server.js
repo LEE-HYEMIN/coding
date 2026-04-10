@@ -705,6 +705,58 @@ function buildNewsQueries(press) {
   return uniqueBy(queries.map((item) => normalizeText(item)).filter(Boolean), (item) => item).slice(0, NEWS_QUERY_MAX);
 }
 
+const NEWS_SOURCE_MAP = new Map([
+  ["yna.co.kr", "연합뉴스"],
+  ["yonhapnewstv.co.kr", "연합뉴스TV"],
+  ["newsis.com", "뉴시스"],
+  ["news1.kr", "뉴스1"],
+  ["chosun.com", "조선일보"],
+  ["joongang.co.kr", "중앙일보"],
+  ["donga.com", "동아일보"],
+  ["hani.co.kr", "한겨레"],
+  ["khan.co.kr", "경향신문"],
+  ["ohmynews.com", "오마이뉴스"],
+  ["munhwa.com", "문화일보"],
+  ["segye.com", "세계일보"],
+  ["kookje.co.kr", "국제신문"],
+  ["busan.com", "부산일보"],
+  ["imaeil.com", "매일신문"],
+  ["hankookilbo.com", "한국일보"],
+  ["heraldcorp.com", "헤럴드경제"],
+  ["mk.co.kr", "매일경제"],
+  ["hankyung.com", "한국경제"],
+  ["etnews.com", "전자신문"],
+  ["dt.co.kr", "디지털타임스"],
+  ["zdnet.co.kr", "지디넷코리아"],
+  ["mt.co.kr", "머니투데이"],
+  ["edaily.co.kr", "이데일리"],
+  ["sedaily.com", "서울경제"],
+  ["asiae.co.kr", "아시아경제"],
+  ["ajunews.com", "아주경제"],
+  ["newspim.com", "뉴스핌"],
+  ["dailian.co.kr", "데일리안"],
+  ["pressian.com", "프레시안"],
+  ["mediatoday.co.kr", "미디어오늘"],
+  ["labortoday.co.kr", "매일노동뉴스"],
+  ["safetynews.co.kr", "안전신문"],
+  ["electimes.com", "전기신문"],
+  ["kidd.co.kr", "국제안전신문"],
+  ["safetyfirst.news", "세이프티퍼스트닷뉴스"],
+]);
+
+function resolveNewsSource(originallink) {
+  try {
+    if (!originallink) return null;
+    const hostname = new URL(originallink).hostname.replace(/^www\./, "");
+    for (const [domain, name] of NEWS_SOURCE_MAP) {
+      if (hostname === domain || hostname.endsWith(`.${domain}`)) return name;
+    }
+    return hostname;
+  } catch {
+    return null;
+  }
+}
+
 async function fetchNaverNewsByQuery(query) {
   const clientId = process.env.NAVER_CLIENT_ID;
   const clientSecret = process.env.NAVER_CLIENT_SECRET;
@@ -731,10 +783,7 @@ async function fetchNaverNewsByQuery(query) {
     const pubDateObj = parseDateText(item.pubDate);
     if (!title || !item.link) continue;
 
-    let source = "네이버 뉴스";
-    try {
-      if (item.originallink) source = new URL(item.originallink).hostname.replace(/^www\./, "");
-    } catch {}
+    const source = resolveNewsSource(item.originallink) || "네이버 뉴스";
 
     rows.push({
       source: normalizeText(source),
