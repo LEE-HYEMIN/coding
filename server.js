@@ -705,38 +705,38 @@ function buildNewsQueries(press) {
   return uniqueBy(queries.map((item) => normalizeText(item)).filter(Boolean), (item) => item).slice(0, NEWS_QUERY_MAX);
 }
 
-async function fetchGoogleNewsByQuery(query) {
-  const url = `https://news.google.com/rss/search?q=${encodeURIComponent(
-    query
-  )}&hl=ko&gl=KR&ceid=KR:ko`;
+async function fetchNaverNewsByQuery(query) {
+  const clientId = process.env.NAVER_CLIENT_ID;
+  const clientSecret = process.env.NAVER_CLIENT_SECRET;
+  if (!clientId || !clientSecret) throw new Error("네이버 API 키가 설정되지 않았습니다.");
 
-  const xml = await fetchText(url);
-  const $ = cheerio.load(xml, { xmlMode: true });
+  const url = `https://openapi.naver.com/v1/search/news.json?query=${encodeURIComponent(query)}&display=20&sort=sim`;
+  const response = await fetchWithTimeout(url, {
+    headers: {
+      "X-Naver-Client-Id": clientId,
+      "X-Naver-Client-Secret": clientSecret,
+    },
+  });
+  if (!response.ok) throw new Error(`네이버 API 요청 실패 (${response.status})`);
+
+  const json = await response.json();
   const rows = [];
 
-  $("item").each((_, item) => {
-    const $item = $(item);
-    const titleRaw = normalizeText($item.find("title").first().text());
-    if (!titleRaw) return;
-
-    const title = normalizeText(titleRaw.replace(/\s+-\s+[^-]+$/, "")) || titleRaw;
-    const source = normalizeText($item.find("source").first().text()) || "Google News";
-    const pubDateText = normalizeText($item.find("pubDate").first().text());
-    const pubDateObj = parseDateText(pubDateText);
-    const url = normalizeText($item.find("link").first().text());
-    const descriptionRaw = $item.find("description").first().text() || "";
-    const description = normalizeText(cheerio.load(`<div>${descriptionRaw}</div>`).text());
-    if (!url) return;
+  for (const item of json.items || []) {
+    const title = normalizeText(item.title.replace(/<[^>]+>/g, ""));
+    const description = normalizeText(item.description.replace(/<[^>]+>/g, ""));
+    const pubDateObj = parseDateText(item.pubDate);
+    if (!title || !item.link) continue;
 
     rows.push({
-      source,
+      source: normalizeText(item.originallink ? new URL(item.originallink).hostname.replace(/^www\./, "") : "네이버 뉴스"),
       title,
       description,
-      publishedAt: pubDateObj ? formatDate(pubDateObj) : pubDateText,
+      publishedAt: pubDateObj ? formatDate(pubDateObj) : item.pubDate,
       publishedAtObj: pubDateObj,
-      url,
+      url: item.link,
     });
-  });
+  }
 
   return uniqueBy(rows, (item) => `${item.title}-${item.source}-${item.publishedAt}-${item.url}`);
 }
@@ -841,7 +841,7 @@ async function collectRelatedNews(press) {
 
   const queryResults = await mapLimit(queries, Math.min(queries.length, NEWS_QUERY_MAX), async (query) => {
     try {
-      return await fetchGoogleNewsByQuery(query);
+      return await fetchNaverNewsByQuery(query);
     } catch {
       return [];
     }
