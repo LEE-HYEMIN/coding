@@ -1222,7 +1222,15 @@ async function getDashboardData(targetYear, forceRefresh = false) {
 }
 
 app.get("/api/health", (_req, res) => {
-  res.json({ ok: true, now: new Date().toISOString() });
+  res.json({
+    ok: true,
+    now: new Date().toISOString(),
+    env: {
+      VERCEL: Boolean(process.env.VERCEL),
+      NAVER_CLIENT_ID: process.env.NAVER_CLIENT_ID ? `set(${process.env.NAVER_CLIENT_ID.length}자)` : "not set",
+      NAVER_CLIENT_SECRET: process.env.NAVER_CLIENT_SECRET ? `set(${process.env.NAVER_CLIENT_SECRET.length}자)` : "not set",
+    },
+  });
 });
 
 app.get("/api/dashboard", async (req, res) => {
