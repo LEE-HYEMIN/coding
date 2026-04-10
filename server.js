@@ -853,13 +853,17 @@ async function collectRelatedNews(press) {
   const queryResults = await mapLimit(queries, Math.min(queries.length, NEWS_QUERY_MAX), async (query) => {
     try {
       return await fetchNaverNewsByQuery(query);
-    } catch {
+    } catch (err) {
+      console.error("[collectRelatedNews] query failed:", query, err.message);
       return [];
     }
   });
 
   const merged = uniqueBy(queryResults.flat(), (item) => `${item.title}-${item.source}-${item.publishedAt}`);
-  return filterAndRankNews(press, merged);
+  console.log(`[collectRelatedNews] queries=${queries.length} raw=${merged.length}`);
+  const result = filterAndRankNews(press, merged);
+  console.log(`[collectRelatedNews] filtered=${result.length}`);
+  return result;
 }
 
 async function collectSafetyHeadquartersPress(targetYear) {
