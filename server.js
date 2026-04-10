@@ -949,6 +949,7 @@ async function collectSafetyHeadquartersPress(targetYear) {
       if (!latest) return null;
       return {
         department,
+        newsSeq: latest.newsSeq,
         title: latest.title,
         publishedAt: latest.publishedAt,
         url: latest.url,
@@ -1000,7 +1001,11 @@ async function getPressDetailWithSnapshotFallback(newsSeq) {
     const currentYear = currentKstYear();
     for (const year of [currentYear, currentYear - 1, currentYear - 2]) {
       const snapshot = await loadDashboardSnapshot(year);
-      const found = snapshot?.items?.find((item) => item.newsSeq === newsSeq);
+      const found = snapshot?.items?.find((item) => {
+      if (item.newsSeq === newsSeq) return true;
+      const seqFromUrl = (item.url?.match(/news_seq=(\d+)/) || [])[1];
+      return seqFromUrl === newsSeq;
+    });
       if (found) {
         return {
           newsSeq: found.newsSeq,
