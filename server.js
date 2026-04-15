@@ -915,12 +915,12 @@ async function collectRelatedNews(press) {
   return result;
 }
 
-async function collectSafetyHeadquartersPress(targetYear) {
+async function collectSafetyHeadquartersPress(targetYear, { maxPages } = {}) {
   const organization = await fetchSafetyHqOrganization();
   const officialDepartments = organization.departments || [];
   const officialDeptMap = buildDepartmentNameMap(officialDepartments);
 
-  const listRows = await fetchMoelPressRowsForYear(targetYear, MAX_YEAR_SCAN_PAGES);
+  const listRows = await fetchMoelPressRowsForYear(targetYear, maxPages || MAX_YEAR_SCAN_PAGES);
   const candidates = listRows;
 
   const detailed = (
@@ -1133,7 +1133,7 @@ async function getReleaseNewsData(newsSeq, forceRefresh = false) {
   return inFlight;
 }
 
-async function buildDashboardData(targetYear, forceRefresh = false) {
+async function buildDashboardData(targetYear, forceRefresh = false, { maxPages } = {}) {
   const notes = [];
   const selectedYear = parseTargetYear(targetYear);
   let availableYears = [selectedYear];
@@ -1157,7 +1157,7 @@ async function buildDashboardData(targetYear, forceRefresh = false) {
   let scannedYearRows = 0;
 
   try {
-    const result = await collectSafetyHeadquartersPress(selectedYear);
+    const result = await collectSafetyHeadquartersPress(selectedYear, { maxPages });
     items = result.items || [];
     officialDepartments = result.officialDepartments || [];
     organizationGroups = result.organizationGroups || [];
@@ -1209,7 +1209,7 @@ async function loadDashboardSnapshot(year) {
   }
 }
 
-async function getDashboardData(targetYear, forceRefresh = false) {
+async function getDashboardData(targetYear, forceRefresh = false, { maxPages } = {}) {
   const selectedYear = parseTargetYear(targetYear);
   const key = String(selectedYear);
   const now = Date.now();
@@ -1243,12 +1243,12 @@ async function getDashboardData(targetYear, forceRefresh = false) {
     try {
       if (onVercel) {
         return await withTimeout(
-          buildDashboardData(selectedYear, forceRefresh),
+          buildDashboardData(selectedYear, forceRefresh, { maxPages }),
           VERCEL_FETCH_TIMEOUT_MS,
           "dashboard-fetch-timeout"
         );
       }
-      return await buildDashboardData(selectedYear, forceRefresh);
+      return await buildDashboardData(selectedYear, forceRefresh, { maxPages });
     } catch (error) {
       if (fallbackSnapshot) {
         const notes = [...(fallbackSnapshot.notes || [])];
@@ -1285,7 +1285,8 @@ app.get("/api/health", (_req, res) => {
 app.get("/api/dashboard", async (req, res) => {
   try {
     const forceRefresh = req.query.refresh === "1";
-    const data = await getDashboardData(req.query.year, forceRefresh);
+    const maxPages = req.query.maxPages ? Number(req.query.maxPages) : undefined;
+    const data = await getDashboardData(req.query.year, forceRefresh, { maxPages });
     res.json(data);
   } catch (error) {
     console.error("[dashboard] failed:", error);

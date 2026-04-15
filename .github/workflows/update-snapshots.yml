@@ -31,17 +31,14 @@ jobs:
       - name: Wait for server
         run: npx wait-on http://localhost:3000/api/health --timeout 10000
 
-      - name: Collect snapshots (최근 3년)
+      - name: Collect snapshot (현재 연도 최신)
         run: |
           mkdir -p snapshots
           CURRENT_YEAR=$(date -d '+9 hours' +%Y)
-          for i in 0 1 2; do
-            YEAR=$((CURRENT_YEAR - i))
-            echo "수집 중: ${YEAR}년"
-            curl -sf --max-time 180 "http://localhost:3000/api/dashboard?year=${YEAR}" \
-              -o "snapshots/dashboard-${YEAR}.json"
-            echo "${YEAR}년 완료"
-          done
+          echo "수집 중: ${CURRENT_YEAR}년 (최근 10페이지)"
+          curl -sf --max-time 120 "http://localhost:3000/api/dashboard?year=${CURRENT_YEAR}&refresh=1&maxPages=10" \
+            -o "snapshots/dashboard-${CURRENT_YEAR}.json"
+          echo "${CURRENT_YEAR}년 완료"
 
       - name: Commit and push
         run: |
