@@ -23,22 +23,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Start server
-        run: node server.js &
-        env:
-          PORT: 3000
-
-      - name: Wait for server
-        run: npx wait-on http://localhost:3000/api/health --timeout 10000
-
-      - name: Collect snapshot (현재 연도 최신)
-        run: |
-          mkdir -p snapshots
-          CURRENT_YEAR=$(date -d '+9 hours' +%Y)
-          echo "수집 중: ${CURRENT_YEAR}년 (최근 10페이지)"
-          curl -sf --max-time 120 "http://localhost:3000/api/dashboard?year=${CURRENT_YEAR}&refresh=1&maxPages=10" \
-            -o "snapshots/dashboard-${CURRENT_YEAR}.json"
-          echo "${CURRENT_YEAR}년 완료"
+      - name: Update snapshot (현재 연도 신규 항목만)
+        run: node scripts/update-snapshot.js
 
       - name: Commit and push
         run: |
