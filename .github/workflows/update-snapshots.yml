@@ -33,4 +33,5 @@ jobs:
           git add snapshots/
           git diff --cached --quiet && echo "변경 없음" || \
             git commit -m "snapshots: $(date -d '+9 hours' +'%Y-%m-%d') 자동 업데이트"
+          git pull --rebase origin main
           git push
