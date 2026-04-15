@@ -32,18 +32,30 @@ function nowKstString() {
   return new Date().toLocaleString("ko-KR", { timeZone: "Asia/Seoul" });
 }
 
-async function fetchText(url) {
-  const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), 25000);
-  try {
-    const res = await fetch(url, {
-      headers: { "user-agent": USER_AGENT, "accept-language": "ko-KR,ko;q=0.9" },
-      signal: controller.signal,
-    });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    return res.text();
-  } finally {
-    clearTimeout(timer);
+async function fetchText(url, retries = 3) {
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 25000);
+    try {
+      const res = await fetch(url, {
+        headers: { "user-agent": USER_AGENT, "accept-language": "ko-KR,ko;q=0.9" },
+        signal: controller.signal,
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return res.text();
+    } catch (e) {
+      clearTimeout(timer);
+      const retryable = e.cause?.code === "ECONNRESET" || e.cause?.code === "ECONNREFUSED" || e.name === "AbortError";
+      if (retryable && attempt < retries) {
+        const delay = 1000 * (attempt + 1);
+        console.log(`재시도 ${attempt + 1}/${retries} (${delay}ms 후): ${url}`);
+        await new Promise((r) => setTimeout(r, delay));
+        continue;
+      }
+      throw e;
+    } finally {
+      clearTimeout(timer);
+    }
   }
 }
 
