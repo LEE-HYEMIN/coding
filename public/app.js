@@ -1,4 +1,5 @@
 const loadingOverlay = document.getElementById("loadingOverlay");
+const loadingMsg = document.getElementById("loadingMsg");
 const refreshBtn = document.getElementById("refreshBtn");
 const updatedAt = document.getElementById("updatedAt");
 const sourceBox = document.getElementById("sourceBox");
@@ -327,6 +328,20 @@ async function loadDashboard(refresh = false, year = "") {
   }
 }
 
-refreshBtn.addEventListener("click", () => loadDashboard(true, yearSelect.value));
+refreshBtn.addEventListener("click", async () => {
+  loadingMsg.textContent = "보도자료를 새로 수집하고 있습니다. 잠시만 기다려 주세요.";
+  showLoading();
+  try {
+    const resp = await fetch("/api/collect", { method: "POST" });
+    const result = await resp.json();
+    if (!result.ok && result.message) {
+      console.info("[collect]", result.message);
+    }
+  } catch (e) {
+    console.warn("[collect] 실패:", e.message);
+  }
+  loadingMsg.textContent = "불러오는 중입니다. 잠시만 기다려 주세요.";
+  await loadDashboard(true, yearSelect.value);
+});
 yearApplyBtn.addEventListener("click", () => loadDashboard(false, yearSelect.value));
 loadDashboard(false);

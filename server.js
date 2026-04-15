@@ -2,6 +2,7 @@
 const path = require("path");
 const fs = require("fs/promises");
 const cheerio = require("cheerio");
+const { execFile } = require("child_process");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -1318,6 +1319,27 @@ app.get("/api/release-news", async (req, res) => {
       detail: error.message,
     });
   }
+});
+
+app.post("/api/collect", (_req, res) => {
+  if (process.env.VERCEL) {
+    res.json({ ok: false, message: "Vercel 환경에서는 GitHub Actions로 자동 업데이트됩니다." });
+    return;
+  }
+
+  const scriptPath = path.join(__dirname, "scripts", "update-snapshot.js");
+  execFile("node", [scriptPath], { timeout: 120000 }, (error, stdout, stderr) => {
+    if (error) {
+      console.error("[collect] 실패:", error.message);
+      res.status(500).json({ ok: false, message: error.message, output: (stdout + stderr).slice(-2000) });
+      return;
+    }
+    // 캐시 무효화 (새 스냅샷 반영)
+    cache.byYear.clear();
+    cache.inFlightByYear.clear();
+    console.log("[collect] 완료");
+    res.json({ ok: true, output: stdout.slice(-2000) });
+  });
 });
 
 app.listen(PORT, () => {
