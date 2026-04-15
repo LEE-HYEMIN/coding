@@ -102,10 +102,12 @@ async function fetchPressRows(targetYear, maxPages) {
       let foundOlderYear = false;
       $("table tbody tr, .board_list tbody tr").each((_, tr) => {
         const $tr = $(tr);
-        const $anchor = $tr.find("a[href*='enewsView.do?news_seq']").first();
+        const $anchor = $tr.find("a[href*='enewsView']").first();
         const href = $anchor.attr("href") || "";
         const newsSeq = (href.match(/news_seq=(\d+)/) || [])[1] || "";
-        const dateText = normalizeText($tr.find("td").last().text());
+        const $tds = $tr.find("td");
+        // td 구조: [번호, 제목, 첨부, 날짜, 조회수] — 날짜는 뒤에서 두 번째
+        const dateText = normalizeText($tds.eq($tds.length - 2).text());
         const dateObj = parseDateText(dateText);
         if (!newsSeq) return;
         if (dateObj && dateObj.getUTCFullYear() < targetYear) { foundOlderYear = true; return; }
