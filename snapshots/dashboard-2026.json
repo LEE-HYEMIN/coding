@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-16T16:21:54.439Z",
-  "generatedAtKst": "2026. 4. 17. AM 1:21:54",
+  "generatedAt": "2026-04-17T15:59:04.826Z",
+  "generatedAtKst": "2026. 4. 18. AM 12:59:04",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 13,
-  "yearlyReleaseCount": 83,
+  "yearlyReleaseCount": 84,
   "scannedYearRows": 50,
   "items": [
     {
@@ -81,10 +81,10 @@
     },
     {
       "department": "건설산재예방감독과",
-      "newsSeq": "19257",
-      "title": "노동부 장관, ‘일일 안전한 일터 지킴이’로 소규모 건설현장 점검",
-      "publishedAt": "2026.04.16",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19257"
+      "newsSeq": "19263",
+      "title": "고용노동부, 붕괴사고 예방 강화를 위한 전국 릴레이 세미나 개최",
+      "publishedAt": "2026.04.17",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19263"
     },
     {
       "department": "화학사고예방조사과",
@@ -186,7 +186,7 @@
         },
         {
           "department": "건설산재예방감독과",
-          "count": 6
+          "count": 7
         },
         {
           "department": "화학사고예방조사과",
@@ -253,7 +253,7 @@
     },
     {
       "department": "건설산재예방감독과",
-      "count": 6
+      "count": 7
     },
     {
       "department": "화학사고예방조사과",
@@ -1104,6 +1104,18 @@
       }
     ],
     "건설산재예방감독과": [
+      {
+        "newsSeq": "19263",
+        "title": "고용노동부, 붕괴사고 예방 강화를 위한 전국 릴레이 세미나 개최",
+        "publishedAt": "2026.04.17",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19263",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260401742&bbs_seq=19263&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260401742&bbs_seq=19263&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260417_보도자료_붕괴사고 예방 릴레이 세미나 개최.pdf",
+        "coDepartments": [
+          "건설산재예방감독과"
+        ]
+      },
       {
         "newsSeq": "19257",
         "title": "노동부 장관, ‘일일 안전한 일터 지킴이’로 소규모 건설현장 점검",
