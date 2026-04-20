@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-19T15:36:15.952Z",
-  "generatedAtKst": "2026. 4. 20. AM 12:36:15",
+  "generatedAt": "2026-04-20T16:07:50.199Z",
+  "generatedAtKst": "2026. 4. 21. AM 1:07:50",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 13,
-  "yearlyReleaseCount": 84,
+  "yearlyReleaseCount": 85,
   "scannedYearRows": 50,
   "items": [
     {
@@ -67,10 +67,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19257",
-      "title": "노동부 장관, ‘일일 안전한 일터 지킴이’로 소규모 건설현장 점검",
-      "publishedAt": "2026.04.16",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19257"
+      "newsSeq": "19270",
+      "title": "소규모 취약 사업장 4,500개소, 중앙-지방 합동 현장점검 착수",
+      "publishedAt": "2026.04.20",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19270"
     },
     {
       "department": "중대산업재해수사과",
@@ -178,7 +178,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 18
+          "count": 19
         },
         {
           "department": "중대산업재해수사과",
@@ -245,7 +245,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 18
+      "count": 19
     },
     {
       "department": "중대산업재해수사과",
@@ -745,6 +745,18 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "19270",
+        "title": "소규모 취약 사업장 4,500개소, 중앙-지방 합동 현장점검 착수",
+        "publishedAt": "2026.04.20",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19270",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260401853&bbs_seq=19270&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260401853&bbs_seq=19270&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260420_보도자료_‘26년 지역 기초노동질서 점검 운영계획.pdf",
+        "coDepartments": [
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19257",
         "title": "노동부 장관, ‘일일 안전한 일터 지킴이’로 소규모 건설현장 점검",
