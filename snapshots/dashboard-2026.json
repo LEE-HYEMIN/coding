@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-21T16:09:23.810Z",
-  "generatedAtKst": "2026. 4. 22. AM 1:09:23",
+  "generatedAt": "2026-04-22T16:08:01.118Z",
+  "generatedAtKst": "2026. 4. 23. AM 1:08:01",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 13,
-  "yearlyReleaseCount": 85,
+  "yearlyReleaseCount": 86,
   "scannedYearRows": 50,
   "items": [
     {
@@ -39,10 +39,10 @@
     },
     {
       "department": "산업보건정책과",
-      "newsSeq": "19079",
-      "title": "해수부-노동부 어업종사자 안전·보건 작업환경 함께 살핀다",
-      "publishedAt": "2026.03.16",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19079"
+      "newsSeq": "19285",
+      "title": "(참고) “고용노동부, 노동자 건강권 보호를 위해 무관용 원칙 적용”",
+      "publishedAt": "2026.04.22",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19285"
     },
     {
       "department": "산재보상정책과",
@@ -155,7 +155,7 @@
       "departments": [
         {
           "department": "산업보건정책과",
-          "count": 3
+          "count": 4
         },
         {
           "department": "산재보상정책과",
@@ -229,7 +229,7 @@
     },
     {
       "department": "산업보건정책과",
-      "count": 3
+      "count": 4
     },
     {
       "department": "산재보상정책과",
@@ -456,6 +456,18 @@
     ],
     "안전보건격차개선과": [],
     "산업보건정책과": [
+      {
+        "newsSeq": "19285",
+        "title": "(참고) “고용노동부, 노동자 건강권 보호를 위해 무관용 원칙 적용”",
+        "publishedAt": "2026.04.22",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19285",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260402110&bbs_seq=19285&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260402110&bbs_seq=19285&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260422_보도참고_노동자 건강권 보호를 위해 무관용원칙 적용.pdf",
+        "coDepartments": [
+          "산업보건정책과"
+        ]
+      },
       {
         "newsSeq": "19079",
         "title": "해수부-노동부 어업종사자 안전·보건 작업환경 함께 살핀다",
