@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-25T15:37:53.201Z",
-  "generatedAtKst": "2026. 4. 26. AM 12:37:53",
+  "generatedAt": "2026-04-26T15:40:11.039Z",
+  "generatedAtKst": "2026. 4. 27. AM 12:40:11",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 13,
-  "yearlyReleaseCount": 86,
+  "yearlyReleaseCount": 87,
   "scannedYearRows": 50,
   "items": [
     {
@@ -67,10 +67,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19270",
-      "title": "소규모 취약 사업장 4,500개소, 중앙-지방 합동 현장점검 착수",
-      "publishedAt": "2026.04.20",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19270"
+      "newsSeq": "19298",
+      "title": "(참고) 외국인 노동자 폭행 사건, 즉시 특별감독 착수",
+      "publishedAt": "2026.04.26",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19298"
     },
     {
       "department": "중대산업재해수사과",
@@ -178,7 +178,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 19
+          "count": 20
         },
         {
           "department": "중대산업재해수사과",
@@ -245,7 +245,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 19
+      "count": 20
     },
     {
       "department": "중대산업재해수사과",
@@ -757,6 +757,18 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "19298",
+        "title": "(참고) 외국인 노동자 폭행 사건, 즉시 특별감독 착수",
+        "publishedAt": "2026.04.26",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19298",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260402402&bbs_seq=19298&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260402402&bbs_seq=19298&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260425_보도참고_외국인 폭행 사업장 특별감독 착수.pdf",
+        "coDepartments": [
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19270",
         "title": "소규모 취약 사업장 4,500개소, 중앙-지방 합동 현장점검 착수",
