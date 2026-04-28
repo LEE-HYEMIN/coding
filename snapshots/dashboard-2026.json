@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-27T16:24:50.558Z",
-  "generatedAtKst": "2026. 4. 28. AM 1:24:50",
+  "generatedAt": "2026-04-28T16:49:47.608Z",
+  "generatedAtKst": "2026. 4. 29. AM 1:49:47",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 90,
+  "yearlyReleaseCount": 91,
   "scannedYearRows": 50,
   "items": [
     {
@@ -53,10 +53,10 @@
     },
     {
       "department": "산재보상정책과",
-      "newsSeq": "19104",
-      "title": "(참고) 노동부 장관, 유가족과의 소통 강화를 위한 중수본 3차 회의 개최",
-      "publishedAt": "2026.03.21",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19104"
+      "newsSeq": "19318",
+      "title": "매년 4월 28일은 「산업재해노동자의 날」입니다.",
+      "publishedAt": "2026.04.28",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19318"
     },
     {
       "department": "노무제공자안전보호과",
@@ -166,7 +166,7 @@
         },
         {
           "department": "산재보상정책과",
-          "count": 6
+          "count": 7
         },
         {
           "department": "노무제공자안전보호과",
@@ -240,7 +240,7 @@
     },
     {
       "department": "산재보상정책과",
-      "count": 6
+      "count": 7
     },
     {
       "department": "노무제공자안전보호과",
@@ -545,6 +545,18 @@
       }
     ],
     "산재보상정책과": [
+      {
+        "newsSeq": "19318",
+        "title": "매년 4월 28일은 「산업재해노동자의 날」입니다.",
+        "publishedAt": "2026.04.28",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19318",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260402630&bbs_seq=19318&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260402630&bbs_seq=19318&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260428_보도자료_산업재해노동자의 날.pdf",
+        "coDepartments": [
+          "산재보상정책과"
+        ]
+      },
       {
         "newsSeq": "19104",
         "title": "(참고) 노동부 장관, 유가족과의 소통 강화를 위한 중수본 3차 회의 개최",
