@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-28T16:49:47.608Z",
-  "generatedAtKst": "2026. 4. 29. AM 1:49:47",
+  "generatedAt": "2026-04-29T16:26:52.955Z",
+  "generatedAtKst": "2026. 4. 30. AM 1:26:52",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 91,
+  "yearlyReleaseCount": 93,
   "scannedYearRows": 50,
   "items": [
     {
@@ -46,17 +46,17 @@
     },
     {
       "department": "산업보건정책과",
-      "newsSeq": "19285",
-      "title": "(참고) “고용노동부, 노동자 건강권 보호를 위해 무관용 원칙 적용”",
-      "publishedAt": "2026.04.22",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19285"
+      "newsSeq": "19325",
+      "title": "고용노동부, 여름철 대비 밀폐공간 질식사고 예방 집중 관리 계획 시행",
+      "publishedAt": "2026.04.29",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19325"
     },
     {
       "department": "산재보상정책과",
-      "newsSeq": "19318",
-      "title": "매년 4월 28일은 「산업재해노동자의 날」입니다.",
-      "publishedAt": "2026.04.28",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19318"
+      "newsSeq": "19324",
+      "title": "“산재노동자에게 듣는다” 토론회 개최",
+      "publishedAt": "2026.04.29",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19324"
     },
     {
       "department": "노무제공자안전보호과",
@@ -162,11 +162,11 @@
       "departments": [
         {
           "department": "산업보건정책과",
-          "count": 4
+          "count": 5
         },
         {
           "department": "산재보상정책과",
-          "count": 7
+          "count": 8
         },
         {
           "department": "노무제공자안전보호과",
@@ -236,11 +236,11 @@
     },
     {
       "department": "산업보건정책과",
-      "count": 4
+      "count": 5
     },
     {
       "department": "산재보상정책과",
-      "count": 7
+      "count": 8
     },
     {
       "department": "노무제공자안전보호과",
@@ -490,6 +490,18 @@
     ],
     "산업보건정책과": [
       {
+        "newsSeq": "19325",
+        "title": "고용노동부, 여름철 대비 밀폐공간 질식사고 예방 집중 관리 계획 시행",
+        "publishedAt": "2026.04.29",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19325",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260402810&bbs_seq=19325&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260402810&bbs_seq=19325&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260429_보도자료_밀폐공간 질식재해 예방 집중 관리 계획 시행.pdf",
+        "coDepartments": [
+          "산업보건정책과"
+        ]
+      },
+      {
         "newsSeq": "19285",
         "title": "(참고) “고용노동부, 노동자 건강권 보호를 위해 무관용 원칙 적용”",
         "publishedAt": "2026.04.22",
@@ -545,6 +557,18 @@
       }
     ],
     "산재보상정책과": [
+      {
+        "newsSeq": "19324",
+        "title": "“산재노동자에게 듣는다” 토론회 개최",
+        "publishedAt": "2026.04.29",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19324",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260402808&bbs_seq=19324&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260402808&bbs_seq=19324&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260429_보도자료_산재노동자에게 듣는다.pdf",
+        "coDepartments": [
+          "산재보상정책과"
+        ]
+      },
       {
         "newsSeq": "19318",
         "title": "매년 4월 28일은 「산업재해노동자의 날」입니다.",
