@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-06T16:26:07.132Z",
-  "generatedAtKst": "2026. 5. 7. AM 1:26:07",
+  "generatedAt": "2026-05-07T16:47:56.818Z",
+  "generatedAtKst": "2026. 5. 8. AM 1:47:56",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 93,
+  "yearlyReleaseCount": 95,
   "scannedYearRows": 50,
   "items": [
     {
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19299",
-      "title": "“제조업 끼임사고 예방 총력 대응” 전국 지방관서장 총출동 현장 불시점검",
-      "publishedAt": "2026.04.27",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19299"
+      "newsSeq": "19356",
+      "title": "신규 노동감독관과 함께 만드는 우리 노동부",
+      "publishedAt": "2026.05.07",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19356"
     },
     {
       "department": "중대산업재해수사과",
@@ -88,10 +88,10 @@
     },
     {
       "department": "건설산재예방감독과",
-      "newsSeq": "19263",
-      "title": "고용노동부, 붕괴사고 예방 강화를 위한 전국 릴레이 세미나 개최",
-      "publishedAt": "2026.04.17",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19263"
+      "newsSeq": "19357",
+      "title": "「건설현장 체불 해소 민관 합동 지원단」 가동 … 11일부터 수도권 108곳 점검",
+      "publishedAt": "2026.05.07",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19357"
     },
     {
       "department": "화학사고예방조사과",
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 21
+          "count": 22
         },
         {
           "department": "중대산업재해수사과",
@@ -193,7 +193,7 @@
         },
         {
           "department": "건설산재예방감독과",
-          "count": 7
+          "count": 8
         },
         {
           "department": "화학사고예방조사과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 21
+      "count": 22
     },
     {
       "department": "중대산업재해수사과",
@@ -260,7 +260,7 @@
     },
     {
       "department": "건설산재예방감독과",
-      "count": 7
+      "count": 8
     },
     {
       "department": "화학사고예방조사과",
@@ -827,6 +827,18 @@
     ],
     "안전보건감독기획과": [
       {
+        "newsSeq": "19356",
+        "title": "신규 노동감독관과 함께 만드는 우리 노동부",
+        "publishedAt": "2026.05.07",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19356",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260500300&bbs_seq=19356&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260500300&bbs_seq=19356&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260507_보도자료_신규노동감독관 490명과 소통의 장 마련.pdf",
+        "coDepartments": [
+          "안전보건감독기획과"
+        ]
+      },
+      {
         "newsSeq": "19299",
         "title": "“제조업 끼임사고 예방 총력 대응” 전국 지방관서장 총출동 현장 불시점검",
         "publishedAt": "2026.04.27",
@@ -1222,6 +1234,18 @@
       }
     ],
     "건설산재예방감독과": [
+      {
+        "newsSeq": "19357",
+        "title": "「건설현장 체불 해소 민관 합동 지원단」 가동 … 11일부터 수도권 108곳 점검",
+        "publishedAt": "2026.05.07",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19357",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260500302&bbs_seq=19357&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260500302&bbs_seq=19357&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260507_보도자료_노동부-국토부 수도권 건설현장 합동감독 실시(관계부처합동).pdf",
+        "coDepartments": [
+          "건설산재예방감독과"
+        ]
+      },
       {
         "newsSeq": "19263",
         "title": "고용노동부, 붕괴사고 예방 강화를 위한 전국 릴레이 세미나 개최",
