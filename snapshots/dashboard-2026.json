@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-17T15:57:34.015Z",
-  "generatedAtKst": "2026. 5. 18. AM 12:57:34",
+  "generatedAt": "2026-05-18T17:29:00.891Z",
+  "generatedAtKst": "2026. 5. 19. AM 2:29:00",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 100,
+  "yearlyReleaseCount": 102,
   "scannedYearRows": 50,
   "items": [
     {
@@ -25,10 +25,10 @@
     },
     {
       "department": "산업안전기준과",
-      "newsSeq": "19396",
-      "title": "(참고) 제조업 끼임, 정비 · 수리 시 전원 차단이 생명을 살립니다 !",
-      "publishedAt": "2026.05.15",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19396"
+      "newsSeq": "19401",
+      "title": "선거기간 현수막 작업은 안전수칙을 반드시 준수해야 합니다",
+      "publishedAt": "2026.05.18",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19401"
     },
     {
       "department": "산재예방지원과",
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19396",
-      "title": "(참고) 제조업 끼임, 정비 · 수리 시 전원 차단이 생명을 살립니다 !",
-      "publishedAt": "2026.05.15",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19396"
+      "newsSeq": "19401",
+      "title": "선거기간 현수막 작업은 안전수칙을 반드시 준수해야 합니다",
+      "publishedAt": "2026.05.18",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19401"
     },
     {
       "department": "중대산업재해수사과",
@@ -143,7 +143,7 @@
         },
         {
           "department": "산업안전기준과",
-          "count": 3
+          "count": 4
         },
         {
           "department": "산재예방지원과",
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 23
+          "count": 24
         },
         {
           "department": "중대산업재해수사과",
@@ -224,7 +224,7 @@
     },
     {
       "department": "산업안전기준과",
-      "count": 3
+      "count": 4
     },
     {
       "department": "산재예방지원과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 23
+      "count": 24
     },
     {
       "department": "중대산업재해수사과",
@@ -357,6 +357,19 @@
       }
     ],
     "산업안전기준과": [
+      {
+        "newsSeq": "19401",
+        "title": "선거기간 현수막 작업은 안전수칙을 반드시 준수해야 합니다",
+        "publishedAt": "2026.05.18",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19401",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260501345&bbs_seq=19401&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260501345&bbs_seq=19401&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260518_보도자료_현수막 작업 안전수칙 안내.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "산업안전기준과"
+        ]
+      },
       {
         "newsSeq": "19396",
         "title": "(참고) 제조업 끼임, 정비 · 수리 시 전원 차단이 생명을 살립니다 !",
@@ -877,6 +890,19 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "19401",
+        "title": "선거기간 현수막 작업은 안전수칙을 반드시 준수해야 합니다",
+        "publishedAt": "2026.05.18",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19401",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260501345&bbs_seq=19401&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260501345&bbs_seq=19401&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260518_보도자료_현수막 작업 안전수칙 안내.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "산업안전기준과"
+        ]
+      },
       {
         "newsSeq": "19396",
         "title": "(참고) 제조업 끼임, 정비 · 수리 시 전원 차단이 생명을 살립니다 !",
