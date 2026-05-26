@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-25T17:05:41.883Z",
-  "generatedAtKst": "2026. 5. 26. AM 2:05:41",
+  "generatedAt": "2026-05-26T17:55:23.807Z",
+  "generatedAtKst": "2026. 5. 27. AM 2:55:23",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 102,
+  "yearlyReleaseCount": 112,
   "scannedYearRows": 50,
   "items": [
     {
@@ -67,38 +67,38 @@
     },
     {
       "department": "직업건강증진팀",
-      "newsSeq": "19391",
-      "title": "정부 - 8대 배달 플랫폼사, 안전한 배달 문화를 함께 만들어갑니다.",
-      "publishedAt": "2026.05.15",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19391"
+      "newsSeq": "19427",
+      "title": "6월 1일부터 2주간, 폭염 대비 온열질환 예방 수칙 집중점검",
+      "publishedAt": "2026.05.26",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19427"
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19401",
-      "title": "선거기간 현수막 작업은 안전수칙을 반드시 준수해야 합니다",
-      "publishedAt": "2026.05.18",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19401"
+      "newsSeq": "19427",
+      "title": "6월 1일부터 2주간, 폭염 대비 온열질환 예방 수칙 집중점검",
+      "publishedAt": "2026.05.26",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19427"
     },
     {
       "department": "중대산업재해수사과",
-      "newsSeq": "19239",
-      "title": "2026년 1분기 산업재해 현황 부가통계 “재해조사 대상 사망사고 발생 현황” 잠정결과 발표",
-      "publishedAt": "2026.04.14",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19239"
+      "newsSeq": "19431",
+      "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 사고수습 철저 긴급지시",
+      "publishedAt": "2026.05.26",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19431"
     },
     {
       "department": "건설산재예방감독과",
-      "newsSeq": "19357",
-      "title": "「건설현장 체불 해소 민관 합동 지원단」 가동 … 11일부터 수도권 108곳 점검",
-      "publishedAt": "2026.05.07",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19357"
+      "newsSeq": "19431",
+      "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 사고수습 철저 긴급지시",
+      "publishedAt": "2026.05.26",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19431"
     },
     {
       "department": "화학사고예방조사과",
-      "newsSeq": "19153",
-      "title": "2026년 1분기 신규화학물질 86종 유해성·위험성 공표",
-      "publishedAt": "2026.03.31",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19153"
+      "newsSeq": "19431",
+      "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 사고수습 철저 긴급지시",
+      "publishedAt": "2026.05.26",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19431"
     },
     {
       "department": "로드맵이행총괄팀",
@@ -174,7 +174,7 @@
         },
         {
           "department": "직업건강증진팀",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -185,19 +185,19 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 24
+          "count": 27
         },
         {
           "department": "중대산업재해수사과",
-          "count": 9
+          "count": 11
         },
         {
           "department": "건설산재예방감독과",
-          "count": 8
+          "count": 10
         },
         {
           "department": "화학사고예방조사과",
-          "count": 9
+          "count": 11
         }
       ]
     },
@@ -248,23 +248,23 @@
     },
     {
       "department": "직업건강증진팀",
-      "count": 12
+      "count": 13
     },
     {
       "department": "안전보건감독기획과",
-      "count": 24
+      "count": 27
     },
     {
       "department": "중대산업재해수사과",
-      "count": 9
+      "count": 11
     },
     {
       "department": "건설산재예방감독과",
-      "count": 8
+      "count": 10
     },
     {
       "department": "화학사고예방조사과",
-      "count": 9
+      "count": 11
     },
     {
       "department": "로드맵이행총괄팀",
@@ -736,6 +736,19 @@
     ],
     "직업건강증진팀": [
       {
+        "newsSeq": "19427",
+        "title": "6월 1일부터 2주간, 폭염 대비 온열질환 예방 수칙 집중점검",
+        "publishedAt": "2026.05.26",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19427",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260501983&bbs_seq=19427&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260501983&bbs_seq=19427&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260526_보도자료_'26.6월 폭염대비 온열질환 예방 수칙 집중점검.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "직업건강증진팀"
+        ]
+      },
+      {
         "newsSeq": "19391",
         "title": "정부 - 8대 배달 플랫폼사, 안전한 배달 문화를 함께 만들어갑니다.",
         "publishedAt": "2026.05.15",
@@ -890,6 +903,49 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "19427",
+        "title": "6월 1일부터 2주간, 폭염 대비 온열질환 예방 수칙 집중점검",
+        "publishedAt": "2026.05.26",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19427",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260501983&bbs_seq=19427&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260501983&bbs_seq=19427&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260526_보도자료_'26.6월 폭염대비 온열질환 예방 수칙 집중점검.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "직업건강증진팀"
+        ]
+      },
+      {
+        "newsSeq": "19431",
+        "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 사고수습 철저 긴급지시",
+        "publishedAt": "2026.05.26",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19431",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502008&bbs_seq=19431&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502008&bbs_seq=19431&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260526_보도참고자료_서울 서소문 고가차도 철거 사고 관련.pdf",
+        "coDepartments": [
+          "건설산재예방감독과",
+          "안전보건감독기획과",
+          "중대산업재해수사과",
+          "화학사고예방조사과"
+        ]
+      },
+      {
+        "newsSeq": "19433",
+        "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 긴급 현장상황점검 회의 개최",
+        "publishedAt": "2026.05.26",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19433",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502030&bbs_seq=19433&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502030&bbs_seq=19433&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260526_보도참고_고용노동부 장관 긴급 현장 상황점검회의 개최.pdf",
+        "coDepartments": [
+          "건설산재예방감독과",
+          "안전보건감독기획과",
+          "중대산업재해수사과",
+          "화학사고예방조사과"
+        ]
+      },
       {
         "newsSeq": "19401",
         "title": "선거기간 현수막 작업은 안전수칙을 반드시 준수해야 합니다",
@@ -1201,6 +1257,36 @@
     ],
     "중대산업재해수사과": [
       {
+        "newsSeq": "19431",
+        "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 사고수습 철저 긴급지시",
+        "publishedAt": "2026.05.26",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19431",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502008&bbs_seq=19431&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502008&bbs_seq=19431&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260526_보도참고자료_서울 서소문 고가차도 철거 사고 관련.pdf",
+        "coDepartments": [
+          "건설산재예방감독과",
+          "안전보건감독기획과",
+          "중대산업재해수사과",
+          "화학사고예방조사과"
+        ]
+      },
+      {
+        "newsSeq": "19433",
+        "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 긴급 현장상황점검 회의 개최",
+        "publishedAt": "2026.05.26",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19433",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502030&bbs_seq=19433&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502030&bbs_seq=19433&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260526_보도참고_고용노동부 장관 긴급 현장 상황점검회의 개최.pdf",
+        "coDepartments": [
+          "건설산재예방감독과",
+          "안전보건감독기획과",
+          "중대산업재해수사과",
+          "화학사고예방조사과"
+        ]
+      },
+      {
         "newsSeq": "19239",
         "title": "2026년 1분기 산업재해 현황 부가통계 “재해조사 대상 사망사고 발생 현황” 잠정결과 발표",
         "publishedAt": "2026.04.14",
@@ -1325,6 +1411,36 @@
     ],
     "건설산재예방감독과": [
       {
+        "newsSeq": "19431",
+        "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 사고수습 철저 긴급지시",
+        "publishedAt": "2026.05.26",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19431",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502008&bbs_seq=19431&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502008&bbs_seq=19431&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260526_보도참고자료_서울 서소문 고가차도 철거 사고 관련.pdf",
+        "coDepartments": [
+          "건설산재예방감독과",
+          "안전보건감독기획과",
+          "중대산업재해수사과",
+          "화학사고예방조사과"
+        ]
+      },
+      {
+        "newsSeq": "19433",
+        "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 긴급 현장상황점검 회의 개최",
+        "publishedAt": "2026.05.26",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19433",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502030&bbs_seq=19433&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502030&bbs_seq=19433&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260526_보도참고_고용노동부 장관 긴급 현장 상황점검회의 개최.pdf",
+        "coDepartments": [
+          "건설산재예방감독과",
+          "안전보건감독기획과",
+          "중대산업재해수사과",
+          "화학사고예방조사과"
+        ]
+      },
+      {
         "newsSeq": "19357",
         "title": "「건설현장 체불 해소 민관 합동 지원단」 가동 … 11일부터 수도권 108곳 점검",
         "publishedAt": "2026.05.07",
@@ -1424,6 +1540,36 @@
       }
     ],
     "화학사고예방조사과": [
+      {
+        "newsSeq": "19431",
+        "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 사고수습 철저 긴급지시",
+        "publishedAt": "2026.05.26",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19431",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502008&bbs_seq=19431&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502008&bbs_seq=19431&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260526_보도참고자료_서울 서소문 고가차도 철거 사고 관련.pdf",
+        "coDepartments": [
+          "건설산재예방감독과",
+          "안전보건감독기획과",
+          "중대산업재해수사과",
+          "화학사고예방조사과"
+        ]
+      },
+      {
+        "newsSeq": "19433",
+        "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 긴급 현장상황점검 회의 개최",
+        "publishedAt": "2026.05.26",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19433",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502030&bbs_seq=19433&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502030&bbs_seq=19433&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260526_보도참고_고용노동부 장관 긴급 현장 상황점검회의 개최.pdf",
+        "coDepartments": [
+          "건설산재예방감독과",
+          "안전보건감독기획과",
+          "중대산업재해수사과",
+          "화학사고예방조사과"
+        ]
+      },
       {
         "newsSeq": "19153",
         "title": "2026년 1분기 신규화학물질 86종 유해성·위험성 공표",
