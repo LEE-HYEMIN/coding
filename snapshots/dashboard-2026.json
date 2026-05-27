@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-26T17:55:23.807Z",
-  "generatedAtKst": "2026. 5. 27. AM 2:55:23",
+  "generatedAt": "2026-05-27T17:57:13.469Z",
+  "generatedAtKst": "2026. 5. 28. AM 2:57:13",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 112,
+  "yearlyReleaseCount": 114,
   "scannedYearRows": 50,
   "items": [
     {
@@ -74,17 +74,17 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19427",
-      "title": "6월 1일부터 2주간, 폭염 대비 온열질환 예방 수칙 집중점검",
-      "publishedAt": "2026.05.26",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19427"
+      "newsSeq": "19441",
+      "title": "고용노동부, 전문성·실력만으로 평가한 ‘공인 현장실무전문가’ 16명 최초 선발",
+      "publishedAt": "2026.05.27",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19441"
     },
     {
       "department": "중대산업재해수사과",
-      "newsSeq": "19431",
-      "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 사고수습 철저 긴급지시",
-      "publishedAt": "2026.05.26",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19431"
+      "newsSeq": "19436",
+      "title": "중대재해 원인 조사 결과「재해조사보고서」 대국민 공개",
+      "publishedAt": "2026.05.27",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19436"
     },
     {
       "department": "건설산재예방감독과",
@@ -185,11 +185,11 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 27
+          "count": 28
         },
         {
           "department": "중대산업재해수사과",
-          "count": 11
+          "count": 12
         },
         {
           "department": "건설산재예방감독과",
@@ -252,11 +252,11 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 27
+      "count": 28
     },
     {
       "department": "중대산업재해수사과",
-      "count": 11
+      "count": 12
     },
     {
       "department": "건설산재예방감독과",
@@ -904,6 +904,18 @@
     ],
     "안전보건감독기획과": [
       {
+        "newsSeq": "19441",
+        "title": "고용노동부, 전문성·실력만으로 평가한 ‘공인 현장실무전문가’ 16명 최초 선발",
+        "publishedAt": "2026.05.27",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19441",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502144&bbs_seq=19441&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502144&bbs_seq=19441&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260527_보도자료_제1회 고용노동부 현장실무전문가 인증서 수여식 개최.pdf",
+        "coDepartments": [
+          "안전보건감독기획과"
+        ]
+      },
+      {
         "newsSeq": "19427",
         "title": "6월 1일부터 2주간, 폭염 대비 온열질환 예방 수칙 집중점검",
         "publishedAt": "2026.05.26",
@@ -1256,6 +1268,18 @@
       }
     ],
     "중대산업재해수사과": [
+      {
+        "newsSeq": "19436",
+        "title": "중대재해 원인 조사 결과「재해조사보고서」 대국민 공개",
+        "publishedAt": "2026.05.27",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19436",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502114&bbs_seq=19436&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502114&bbs_seq=19436&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260527_보도자료_동종,유사재해 예방을 위한 재해조사보고서 공개.pdf",
+        "coDepartments": [
+          "중대산업재해수사과"
+        ]
+      },
       {
         "newsSeq": "19431",
         "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 사고수습 철저 긴급지시",
