@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-27T17:57:13.469Z",
-  "generatedAtKst": "2026. 5. 28. AM 2:57:13",
+  "generatedAt": "2026-05-28T18:10:13.637Z",
+  "generatedAtKst": "2026. 5. 29. AM 3:10:13",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 114,
+  "yearlyReleaseCount": 117,
   "scannedYearRows": 50,
   "items": [
     {
@@ -25,10 +25,10 @@
     },
     {
       "department": "산업안전기준과",
-      "newsSeq": "19401",
-      "title": "선거기간 현수막 작업은 안전수칙을 반드시 준수해야 합니다",
-      "publishedAt": "2026.05.18",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19401"
+      "newsSeq": "19450",
+      "title": "산업안전보건본부장, 발전5사와 안전관리 실천 논의",
+      "publishedAt": "2026.05.28",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19450"
     },
     {
       "department": "산재예방지원과",
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19441",
-      "title": "고용노동부, 전문성·실력만으로 평가한 ‘공인 현장실무전문가’ 16명 최초 선발",
-      "publishedAt": "2026.05.27",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19441"
+      "newsSeq": "19450",
+      "title": "산업안전보건본부장, 발전5사와 안전관리 실천 논의",
+      "publishedAt": "2026.05.28",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19450"
     },
     {
       "department": "중대산업재해수사과",
@@ -88,10 +88,10 @@
     },
     {
       "department": "건설산재예방감독과",
-      "newsSeq": "19431",
-      "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 사고수습 철저 긴급지시",
-      "publishedAt": "2026.05.26",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19431"
+      "newsSeq": "19450",
+      "title": "산업안전보건본부장, 발전5사와 안전관리 실천 논의",
+      "publishedAt": "2026.05.28",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19450"
     },
     {
       "department": "화학사고예방조사과",
@@ -143,7 +143,7 @@
         },
         {
           "department": "산업안전기준과",
-          "count": 4
+          "count": 5
         },
         {
           "department": "산재예방지원과",
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 28
+          "count": 29
         },
         {
           "department": "중대산업재해수사과",
@@ -193,7 +193,7 @@
         },
         {
           "department": "건설산재예방감독과",
-          "count": 10
+          "count": 11
         },
         {
           "department": "화학사고예방조사과",
@@ -224,7 +224,7 @@
     },
     {
       "department": "산업안전기준과",
-      "count": 4
+      "count": 5
     },
     {
       "department": "산재예방지원과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 28
+      "count": 29
     },
     {
       "department": "중대산업재해수사과",
@@ -260,7 +260,7 @@
     },
     {
       "department": "건설산재예방감독과",
-      "count": 10
+      "count": 11
     },
     {
       "department": "화학사고예방조사과",
@@ -357,6 +357,20 @@
       }
     ],
     "산업안전기준과": [
+      {
+        "newsSeq": "19450",
+        "title": "산업안전보건본부장, 발전5사와 안전관리 실천 논의",
+        "publishedAt": "2026.05.28",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19450",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502280&bbs_seq=19450&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502280&bbs_seq=19450&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260528_보도자료_화력발전소 안전관리 강화 간담회.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "건설산재예방감독과",
+          "산업안전기준과"
+        ]
+      },
       {
         "newsSeq": "19401",
         "title": "선거기간 현수막 작업은 안전수칙을 반드시 준수해야 합니다",
@@ -904,6 +918,20 @@
     ],
     "안전보건감독기획과": [
       {
+        "newsSeq": "19450",
+        "title": "산업안전보건본부장, 발전5사와 안전관리 실천 논의",
+        "publishedAt": "2026.05.28",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19450",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502280&bbs_seq=19450&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502280&bbs_seq=19450&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260528_보도자료_화력발전소 안전관리 강화 간담회.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "건설산재예방감독과",
+          "산업안전기준과"
+        ]
+      },
+      {
         "newsSeq": "19441",
         "title": "고용노동부, 전문성·실력만으로 평가한 ‘공인 현장실무전문가’ 16명 최초 선발",
         "publishedAt": "2026.05.27",
@@ -1434,6 +1462,20 @@
       }
     ],
     "건설산재예방감독과": [
+      {
+        "newsSeq": "19450",
+        "title": "산업안전보건본부장, 발전5사와 안전관리 실천 논의",
+        "publishedAt": "2026.05.28",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19450",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502280&bbs_seq=19450&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502280&bbs_seq=19450&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260528_보도자료_화력발전소 안전관리 강화 간담회.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "건설산재예방감독과",
+          "산업안전기준과"
+        ]
+      },
       {
         "newsSeq": "19431",
         "title": "(참고) 노동부장관, 서소문 고가차도 철거현장 붕괴사고 관련 사고수습 철저 긴급지시",
