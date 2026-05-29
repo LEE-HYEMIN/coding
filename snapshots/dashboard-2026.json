@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-28T18:10:13.637Z",
-  "generatedAtKst": "2026. 5. 29. AM 3:10:13",
+  "generatedAt": "2026-05-29T18:11:49.866Z",
+  "generatedAtKst": "2026. 5. 30. AM 3:11:49",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 117,
+  "yearlyReleaseCount": 120,
   "scannedYearRows": 50,
   "items": [
     {
@@ -53,10 +53,10 @@
     },
     {
       "department": "산재보상정책과",
-      "newsSeq": "19324",
-      "title": "“산재노동자에게 듣는다” 토론회 개최",
-      "publishedAt": "2026.04.29",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19324"
+      "newsSeq": "19459",
+      "title": "고용노동부, 산재예방심의위원회 개최... 산재 신속 처리 등 산재보험 혁신 가속화",
+      "publishedAt": "2026.05.29",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19459"
     },
     {
       "department": "노무제공자안전보호과",
@@ -67,10 +67,10 @@
     },
     {
       "department": "직업건강증진팀",
-      "newsSeq": "19427",
-      "title": "6월 1일부터 2주간, 폭염 대비 온열질환 예방 수칙 집중점검",
-      "publishedAt": "2026.05.26",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19427"
+      "newsSeq": "19460",
+      "title": "고용노동부 장관, 20대 건설사와 건설현장 폭염 대책 총력 대응 선언",
+      "publishedAt": "2026.05.29",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19460"
     },
     {
       "department": "안전보건감독기획과",
@@ -88,10 +88,10 @@
     },
     {
       "department": "건설산재예방감독과",
-      "newsSeq": "19450",
-      "title": "산업안전보건본부장, 발전5사와 안전관리 실천 논의",
-      "publishedAt": "2026.05.28",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19450"
+      "newsSeq": "19460",
+      "title": "고용노동부 장관, 20대 건설사와 건설현장 폭염 대책 총력 대응 선언",
+      "publishedAt": "2026.05.29",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19460"
     },
     {
       "department": "화학사고예방조사과",
@@ -166,7 +166,7 @@
         },
         {
           "department": "산재보상정책과",
-          "count": 8
+          "count": 9
         },
         {
           "department": "노무제공자안전보호과",
@@ -174,7 +174,7 @@
         },
         {
           "department": "직업건강증진팀",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -193,7 +193,7 @@
         },
         {
           "department": "건설산재예방감독과",
-          "count": 11
+          "count": 12
         },
         {
           "department": "화학사고예방조사과",
@@ -240,7 +240,7 @@
     },
     {
       "department": "산재보상정책과",
-      "count": 8
+      "count": 9
     },
     {
       "department": "노무제공자안전보호과",
@@ -248,7 +248,7 @@
     },
     {
       "department": "직업건강증진팀",
-      "count": 13
+      "count": 14
     },
     {
       "department": "안전보건감독기획과",
@@ -260,7 +260,7 @@
     },
     {
       "department": "건설산재예방감독과",
-      "count": 11
+      "count": 12
     },
     {
       "department": "화학사고예방조사과",
@@ -598,6 +598,18 @@
     ],
     "산재보상정책과": [
       {
+        "newsSeq": "19459",
+        "title": "고용노동부, 산재예방심의위원회 개최... 산재 신속 처리 등 산재보험 혁신 가속화",
+        "publishedAt": "2026.05.29",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19459",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502501&bbs_seq=19459&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502501&bbs_seq=19459&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260529_보도자료_산업재해보상보험 및 예방심의위원회 회의.pdf",
+        "coDepartments": [
+          "산재보상정책과"
+        ]
+      },
+      {
         "newsSeq": "19324",
         "title": "“산재노동자에게 듣는다” 토론회 개최",
         "publishedAt": "2026.04.29",
@@ -749,6 +761,19 @@
       }
     ],
     "직업건강증진팀": [
+      {
+        "newsSeq": "19460",
+        "title": "고용노동부 장관, 20대 건설사와 건설현장 폭염 대책 총력 대응 선언",
+        "publishedAt": "2026.05.29",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19460",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502503&bbs_seq=19460&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502503&bbs_seq=19460&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260529_보도자료_26년 폭염 대비 20대 건설사 CEO 간담회.pdf",
+        "coDepartments": [
+          "직업건강증진팀",
+          "건설산재예방감독과"
+        ]
+      },
       {
         "newsSeq": "19427",
         "title": "6월 1일부터 2주간, 폭염 대비 온열질환 예방 수칙 집중점검",
@@ -1462,6 +1487,19 @@
       }
     ],
     "건설산재예방감독과": [
+      {
+        "newsSeq": "19460",
+        "title": "고용노동부 장관, 20대 건설사와 건설현장 폭염 대책 총력 대응 선언",
+        "publishedAt": "2026.05.29",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19460",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260502503&bbs_seq=19460&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260502503&bbs_seq=19460&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260529_보도자료_26년 폭염 대비 20대 건설사 CEO 간담회.pdf",
+        "coDepartments": [
+          "직업건강증진팀",
+          "건설산재예방감독과"
+        ]
+      },
       {
         "newsSeq": "19450",
         "title": "산업안전보건본부장, 발전5사와 안전관리 실천 논의",
