@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-01T19:54:43.230Z",
-  "generatedAtKst": "2026. 6. 2. AM 4:54:43",
+  "generatedAt": "2026-06-02T18:38:22.192Z",
+  "generatedAtKst": "2026. 6. 3. AM 3:38:22",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 123,
+  "yearlyReleaseCount": 127,
   "scannedYearRows": 50,
   "items": [
     {
@@ -67,24 +67,24 @@
     },
     {
       "department": "직업건강증진팀",
-      "newsSeq": "19460",
-      "title": "고용노동부 장관, 20대 건설사와 건설현장 폭염 대책 총력 대응 선언",
-      "publishedAt": "2026.05.29",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19460"
+      "newsSeq": "19476",
+      "title": "폭염 대비 온열질환 예방을 위한 물류·유통업 CSO 간담회 개최",
+      "publishedAt": "2026.06.02",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19476"
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19469",
-      "title": "(참고) 노동부장관, 한화에어로스페이스 폭발사고 관련 사고수습 철저 긴급지시",
-      "publishedAt": "2026.06.01",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19469"
+      "newsSeq": "19473",
+      "title": "(참고) 노동부 장관, 한화에어로스페이스 폭발사고 관련 중산본 2차 회의 개최",
+      "publishedAt": "2026.06.02",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19473"
     },
     {
       "department": "중대산업재해수사과",
-      "newsSeq": "19469",
-      "title": "(참고) 노동부장관, 한화에어로스페이스 폭발사고 관련 사고수습 철저 긴급지시",
-      "publishedAt": "2026.06.01",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19469"
+      "newsSeq": "19473",
+      "title": "(참고) 노동부 장관, 한화에어로스페이스 폭발사고 관련 중산본 2차 회의 개최",
+      "publishedAt": "2026.06.02",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19473"
     },
     {
       "department": "건설산재예방감독과",
@@ -95,10 +95,10 @@
     },
     {
       "department": "화학사고예방조사과",
-      "newsSeq": "19469",
-      "title": "(참고) 노동부장관, 한화에어로스페이스 폭발사고 관련 사고수습 철저 긴급지시",
-      "publishedAt": "2026.06.01",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19469"
+      "newsSeq": "19473",
+      "title": "(참고) 노동부 장관, 한화에어로스페이스 폭발사고 관련 중산본 2차 회의 개최",
+      "publishedAt": "2026.06.02",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19473"
     },
     {
       "department": "로드맵이행총괄팀",
@@ -174,7 +174,7 @@
         },
         {
           "department": "직업건강증진팀",
-          "count": 14
+          "count": 15
         }
       ]
     },
@@ -185,11 +185,11 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 30
+          "count": 31
         },
         {
           "department": "중대산업재해수사과",
-          "count": 13
+          "count": 14
         },
         {
           "department": "건설산재예방감독과",
@@ -197,7 +197,7 @@
         },
         {
           "department": "화학사고예방조사과",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -248,15 +248,15 @@
     },
     {
       "department": "직업건강증진팀",
-      "count": 14
+      "count": 15
     },
     {
       "department": "안전보건감독기획과",
-      "count": 30
+      "count": 31
     },
     {
       "department": "중대산업재해수사과",
-      "count": 13
+      "count": 14
     },
     {
       "department": "건설산재예방감독과",
@@ -264,7 +264,7 @@
     },
     {
       "department": "화학사고예방조사과",
-      "count": 12
+      "count": 13
     },
     {
       "department": "로드맵이행총괄팀",
@@ -762,6 +762,18 @@
     ],
     "직업건강증진팀": [
       {
+        "newsSeq": "19476",
+        "title": "폭염 대비 온열질환 예방을 위한 물류·유통업 CSO 간담회 개최",
+        "publishedAt": "2026.06.02",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19476",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260600380&bbs_seq=19476&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260600380&bbs_seq=19476&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260602_보도자료_물류 유통업 CSO 간담회 개최.pdf",
+        "coDepartments": [
+          "직업건강증진팀"
+        ]
+      },
+      {
         "newsSeq": "19460",
         "title": "고용노동부 장관, 20대 건설사와 건설현장 폭염 대책 총력 대응 선언",
         "publishedAt": "2026.05.29",
@@ -942,6 +954,20 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "19473",
+        "title": "(참고) 노동부 장관, 한화에어로스페이스 폭발사고 관련 중산본 2차 회의 개최",
+        "publishedAt": "2026.06.02",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19473",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260600308&bbs_seq=19473&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260600308&bbs_seq=19473&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260602_보도참고_한화에어로스페이스_폭발사고_관련.pdf",
+        "coDepartments": [
+          "화학사고예방조사과",
+          "안전보건감독기획과",
+          "중대산업재해수사과"
+        ]
+      },
       {
         "newsSeq": "19469",
         "title": "(참고) 노동부장관, 한화에어로스페이스 폭발사고 관련 사고수습 철저 긴급지시",
@@ -1336,6 +1362,20 @@
     ],
     "중대산업재해수사과": [
       {
+        "newsSeq": "19473",
+        "title": "(참고) 노동부 장관, 한화에어로스페이스 폭발사고 관련 중산본 2차 회의 개최",
+        "publishedAt": "2026.06.02",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19473",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260600308&bbs_seq=19473&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260600308&bbs_seq=19473&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260602_보도참고_한화에어로스페이스_폭발사고_관련.pdf",
+        "coDepartments": [
+          "화학사고예방조사과",
+          "안전보건감독기획과",
+          "중대산업재해수사과"
+        ]
+      },
+      {
         "newsSeq": "19469",
         "title": "(참고) 노동부장관, 한화에어로스페이스 폭발사고 관련 사고수습 철저 긴급지시",
         "publishedAt": "2026.06.01",
@@ -1672,6 +1712,20 @@
       }
     ],
     "화학사고예방조사과": [
+      {
+        "newsSeq": "19473",
+        "title": "(참고) 노동부 장관, 한화에어로스페이스 폭발사고 관련 중산본 2차 회의 개최",
+        "publishedAt": "2026.06.02",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19473",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260600308&bbs_seq=19473&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260600308&bbs_seq=19473&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260602_보도참고_한화에어로스페이스_폭발사고_관련.pdf",
+        "coDepartments": [
+          "화학사고예방조사과",
+          "안전보건감독기획과",
+          "중대산업재해수사과"
+        ]
+      },
       {
         "newsSeq": "19469",
         "title": "(참고) 노동부장관, 한화에어로스페이스 폭발사고 관련 사고수습 철저 긴급지시",
