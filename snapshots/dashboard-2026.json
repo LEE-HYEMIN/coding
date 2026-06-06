@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-03T18:42:14.029Z",
-  "generatedAtKst": "2026. 6. 4. AM 3:42:14",
+  "generatedAt": "2026-06-06T16:04:40.289Z",
+  "generatedAtKst": "2026. 6. 7. AM 1:04:40",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,15 +13,15 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 127,
+  "yearlyReleaseCount": 128,
   "scannedYearRows": 50,
   "items": [
     {
       "department": "산업안전정책과",
-      "newsSeq": "19245",
-      "title": "2025년 공공기관 안전활동 수준평가 결과 발표",
-      "publishedAt": "2026.04.15",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19245"
+      "newsSeq": "19483",
+      "title": "노동 현안 점검고용노동부 전국 기관장회의 개최",
+      "publishedAt": "2026.06.04",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19483"
     },
     {
       "department": "산업안전기준과",
@@ -139,7 +139,7 @@
       "departments": [
         {
           "department": "산업안전정책과",
-          "count": 6
+          "count": 7
         },
         {
           "department": "산업안전기준과",
@@ -220,7 +220,7 @@
   "departmentStats": [
     {
       "department": "산업안전정책과",
-      "count": 6
+      "count": 7
     },
     {
       "department": "산업안전기준과",
@@ -277,6 +277,18 @@
   ],
   "departmentReleases": {
     "산업안전정책과": [
+      {
+        "newsSeq": "19483",
+        "title": "노동 현안 점검고용노동부 전국 기관장회의 개최",
+        "publishedAt": "2026.06.04",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19483",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260600512&bbs_seq=19483&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260600512&bbs_seq=19483&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260604_보도자료_전국_기관장_회의_개최(수정).pdf",
+        "coDepartments": [
+          "산업안전정책과"
+        ]
+      },
       {
         "newsSeq": "19245",
         "title": "2025년 공공기관 안전활동 수준평가 결과 발표",
