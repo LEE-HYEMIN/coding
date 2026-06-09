@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-06T16:04:40.289Z",
-  "generatedAtKst": "2026. 6. 7. AM 1:04:40",
+  "generatedAt": "2026-06-09T17:24:09.700Z",
+  "generatedAtKst": "2026. 6. 10. AM 2:24:09",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 128,
+  "yearlyReleaseCount": 130,
   "scannedYearRows": 50,
   "items": [
     {
@@ -46,10 +46,10 @@
     },
     {
       "department": "산업보건정책과",
-      "newsSeq": "19325",
-      "title": "고용노동부, 여름철 대비 밀폐공간 질식사고 예방 집중 관리 계획 시행",
-      "publishedAt": "2026.04.29",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19325"
+      "newsSeq": "19491",
+      "title": "고용노동부, 「에볼라바이러스병 대비 사업장 예방수칙」 마련·배포",
+      "publishedAt": "2026.06.08",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19491"
     },
     {
       "department": "산재보상정책과",
@@ -81,10 +81,10 @@
     },
     {
       "department": "중대산업재해수사과",
-      "newsSeq": "19473",
-      "title": "(참고) 노동부 장관, 한화에어로스페이스 폭발사고 관련 중산본 2차 회의 개최",
-      "publishedAt": "2026.06.02",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19473"
+      "newsSeq": "19497",
+      "title": "「2025 중대재해 사이렌」 책자 발간",
+      "publishedAt": "2026.06.09",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19497"
     },
     {
       "department": "건설산재예방감독과",
@@ -162,7 +162,7 @@
       "departments": [
         {
           "department": "산업보건정책과",
-          "count": 5
+          "count": 6
         },
         {
           "department": "산재보상정책과",
@@ -189,7 +189,7 @@
         },
         {
           "department": "중대산업재해수사과",
-          "count": 14
+          "count": 15
         },
         {
           "department": "건설산재예방감독과",
@@ -236,7 +236,7 @@
     },
     {
       "department": "산업보건정책과",
-      "count": 5
+      "count": 6
     },
     {
       "department": "산재보상정책과",
@@ -256,7 +256,7 @@
     },
     {
       "department": "중대산업재해수사과",
-      "count": 14
+      "count": 15
     },
     {
       "department": "건설산재예방감독과",
@@ -541,6 +541,18 @@
       }
     ],
     "산업보건정책과": [
+      {
+        "newsSeq": "19491",
+        "title": "고용노동부, 「에볼라바이러스병 대비 사업장 예방수칙」 마련·배포",
+        "publishedAt": "2026.06.08",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19491",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260600683&bbs_seq=19491&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260600683&bbs_seq=19491&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260608_보도자료_에볼라바이러스병 대비 사업장 예방수칙 마련 배포.pdf",
+        "coDepartments": [
+          "산업보건정책과"
+        ]
+      },
       {
         "newsSeq": "19325",
         "title": "고용노동부, 여름철 대비 밀폐공간 질식사고 예방 집중 관리 계획 시행",
@@ -1373,6 +1385,18 @@
       }
     ],
     "중대산업재해수사과": [
+      {
+        "newsSeq": "19497",
+        "title": "「2025 중대재해 사이렌」 책자 발간",
+        "publishedAt": "2026.06.09",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19497",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260600816&bbs_seq=19497&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260600816&bbs_seq=19497&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260609_보도자료_2025년 중대재해 사이렌 자료 책자 발간.pdf",
+        "coDepartments": [
+          "중대산업재해수사과"
+        ]
+      },
       {
         "newsSeq": "19473",
         "title": "(참고) 노동부 장관, 한화에어로스페이스 폭발사고 관련 중산본 2차 회의 개최",
