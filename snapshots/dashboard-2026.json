@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-14T16:20:15.800Z",
-  "generatedAtKst": "2026. 6. 15. AM 1:20:15",
+  "generatedAt": "2026-06-15T19:02:30.849Z",
+  "generatedAtKst": "2026. 6. 16. AM 4:02:30",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 135,
+  "yearlyReleaseCount": 137,
   "scannedYearRows": 50,
   "items": [
     {
@@ -32,10 +32,10 @@
     },
     {
       "department": "산재예방지원과",
-      "newsSeq": "19174",
-      "title": "기계 정비할 땐 반드시 정지! 3대 기초안전수칙(안전모·안전대·안전벨트)도 잊지마세요!",
-      "publishedAt": "2026.04.02",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19174"
+      "newsSeq": "19525",
+      "title": "우리 사업장에 필요한 중대재해 예방 지원, 지방정부로 신청하세요!",
+      "publishedAt": "2026.06.15",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19525"
     },
     {
       "department": "안전보건격차개선과",
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19516",
-      "title": "(참고) 고용노동부, ‘사망사고 반복 발생’ ㈜포스코이앤씨에 특단의 조치 시행",
-      "publishedAt": "2026.06.11",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19516"
+      "newsSeq": "19530",
+      "title": "군용화약류 취급 사업장 전수 합동점검 실시",
+      "publishedAt": "2026.06.15",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19530"
     },
     {
       "department": "중대산업재해수사과",
@@ -147,7 +147,7 @@
         },
         {
           "department": "산재예방지원과",
-          "count": 7
+          "count": 8
         },
         {
           "department": "안전보건격차개선과",
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 32
+          "count": 33
         },
         {
           "department": "중대산업재해수사과",
@@ -228,7 +228,7 @@
     },
     {
       "department": "산재예방지원과",
-      "count": 7
+      "count": 8
     },
     {
       "department": "안전보건격차개선과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 32
+      "count": 33
     },
     {
       "department": "중대산업재해수사과",
@@ -436,6 +436,18 @@
       }
     ],
     "산재예방지원과": [
+      {
+        "newsSeq": "19525",
+        "title": "우리 사업장에 필요한 중대재해 예방 지원, 지방정부로 신청하세요!",
+        "publishedAt": "2026.06.15",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19525",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260601208&bbs_seq=19525&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260601208&bbs_seq=19525&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260614_보도자료_지역 중대재해 예방 사각지대 해소 사업 본격 추진.pdf",
+        "coDepartments": [
+          "산재예방지원과"
+        ]
+      },
       {
         "newsSeq": "19174",
         "title": "기계 정비할 땐 반드시 정지! 3대 기초안전수칙(안전모·안전대·안전벨트)도 잊지마세요!",
@@ -990,6 +1002,18 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "19530",
+        "title": "군용화약류 취급 사업장 전수 합동점검 실시",
+        "publishedAt": "2026.06.15",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19530",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260601238&bbs_seq=19530&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260601238&bbs_seq=19530&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260615_보도자료_군용화약류 취급 사업장 전수 합동점검 실시.pdf",
+        "coDepartments": [
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19516",
         "title": "(참고) 고용노동부, ‘사망사고 반복 발생’ ㈜포스코이앤씨에 특단의 조치 시행",
