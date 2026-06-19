@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-17T17:48:23.230Z",
-  "generatedAtKst": "2026. 6. 18. AM 2:48:23",
+  "generatedAt": "2026-06-19T17:18:08.143Z",
+  "generatedAtKst": "2026. 6. 20. AM 2:18:08",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 139,
+  "yearlyReleaseCount": 141,
   "scannedYearRows": 50,
   "items": [
     {
@@ -46,10 +46,10 @@
     },
     {
       "department": "산업보건정책과",
-      "newsSeq": "19491",
-      "title": "고용노동부, 「에볼라바이러스병 대비 사업장 예방수칙」 마련·배포",
-      "publishedAt": "2026.06.08",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19491"
+      "newsSeq": "19546",
+      "title": "(참고) 외국인 노동자 기초안전보건교육 강화",
+      "publishedAt": "2026.06.18",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19546"
     },
     {
       "department": "산재보상정책과",
@@ -109,10 +109,10 @@
     },
     {
       "department": "안전문화협력팀",
-      "newsSeq": "19517",
-      "title": "국민이 만들고 뽑은 산재예방 숏폼, 내 일터 안전하게, 내일 더 행복하게 만든다",
-      "publishedAt": "2026.06.11",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19517"
+      "newsSeq": "19546",
+      "title": "(참고) 외국인 노동자 기초안전보건교육 강화",
+      "publishedAt": "2026.06.18",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19546"
     }
   ],
   "officialDepartments": [
@@ -162,7 +162,7 @@
       "departments": [
         {
           "department": "산업보건정책과",
-          "count": 6
+          "count": 7
         },
         {
           "department": "산재보상정책과",
@@ -212,7 +212,7 @@
         },
         {
           "department": "안전문화협력팀",
-          "count": 5
+          "count": 6
         }
       ]
     }
@@ -236,7 +236,7 @@
     },
     {
       "department": "산업보건정책과",
-      "count": 6
+      "count": 7
     },
     {
       "department": "산재보상정책과",
@@ -272,7 +272,7 @@
     },
     {
       "department": "안전문화협력팀",
-      "count": 5
+      "count": 6
     }
   ],
   "departmentReleases": {
@@ -565,6 +565,19 @@
       }
     ],
     "산업보건정책과": [
+      {
+        "newsSeq": "19546",
+        "title": "(참고) 외국인 노동자 기초안전보건교육 강화",
+        "publishedAt": "2026.06.18",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19546",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260601587&bbs_seq=19546&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260601587&bbs_seq=19546&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260618_보도참고_산업안전보건법 등 2개 법률안 국회 의결.pdf",
+        "coDepartments": [
+          "안전문화협력팀",
+          "산업보건정책과"
+        ]
+      },
       {
         "newsSeq": "19491",
         "title": "고용노동부, 「에볼라바이러스병 대비 사업장 예방수칙」 마련·배포",
@@ -2053,6 +2066,19 @@
       }
     ],
     "안전문화협력팀": [
+      {
+        "newsSeq": "19546",
+        "title": "(참고) 외국인 노동자 기초안전보건교육 강화",
+        "publishedAt": "2026.06.18",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19546",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260601587&bbs_seq=19546&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260601587&bbs_seq=19546&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260618_보도참고_산업안전보건법 등 2개 법률안 국회 의결.pdf",
+        "coDepartments": [
+          "안전문화협력팀",
+          "산업보건정책과"
+        ]
+      },
       {
         "newsSeq": "19517",
         "title": "국민이 만들고 뽑은 산재예방 숏폼, 내 일터 안전하게, 내일 더 행복하게 만든다",
