@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-21T16:29:14.511Z",
-  "generatedAtKst": "2026. 6. 22. AM 1:29:14",
+  "generatedAt": "2026-06-23T17:15:56.099Z",
+  "generatedAtKst": "2026. 6. 24. AM 2:15:56",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 141,
+  "yearlyReleaseCount": 142,
   "scannedYearRows": 50,
   "items": [
     {
@@ -53,10 +53,10 @@
     },
     {
       "department": "산재보상정책과",
-      "newsSeq": "19459",
-      "title": "고용노동부, 산재예방심의위원회 개최... 산재 신속 처리 등 산재보험 혁신 가속화",
-      "publishedAt": "2026.05.29",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19459"
+      "newsSeq": "19560",
+      "title": "「고용보험법 시행령」, 「산업재해보상보험법 시행령」 개정안 국무회의 심의·의결",
+      "publishedAt": "2026.06.23",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19560"
     },
     {
       "department": "노무제공자안전보호과",
@@ -166,7 +166,7 @@
         },
         {
           "department": "산재보상정책과",
-          "count": 9
+          "count": 10
         },
         {
           "department": "노무제공자안전보호과",
@@ -240,7 +240,7 @@
     },
     {
       "department": "산재보상정책과",
-      "count": 9
+      "count": 10
     },
     {
       "department": "노무제공자안전보호과",
@@ -658,6 +658,18 @@
       }
     ],
     "산재보상정책과": [
+      {
+        "newsSeq": "19560",
+        "title": "「고용보험법 시행령」, 「산업재해보상보험법 시행령」 개정안 국무회의 심의·의결",
+        "publishedAt": "2026.06.23",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19560",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260601819&bbs_seq=19560&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260601819&bbs_seq=19560&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260623_보도자료_고용보험법 등 2개법률안 국무회의 심의의결.pdf",
+        "coDepartments": [
+          "산재보상정책과"
+        ]
+      },
       {
         "newsSeq": "19459",
         "title": "고용노동부, 산재예방심의위원회 개최... 산재 신속 처리 등 산재보험 혁신 가속화",
