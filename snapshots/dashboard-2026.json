@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-27T16:03:05.060Z",
-  "generatedAtKst": "2026. 6. 28. AM 1:03:05",
+  "generatedAt": "2026-07-02T16:47:58.048Z",
+  "generatedAtKst": "2026. 7. 3. AM 1:47:58",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,22 +13,22 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 144,
+  "yearlyReleaseCount": 151,
   "scannedYearRows": 50,
   "items": [
     {
       "department": "산업안전정책과",
-      "newsSeq": "19483",
-      "title": "노동 현안 점검고용노동부 전국 기관장회의 개최",
-      "publishedAt": "2026.06.04",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19483"
+      "newsSeq": "19594",
+      "title": "(참고) 동일 반복재해 근절 등 안전한 일터를 위한 “노동안전 범정부 협의체” 회의 개최",
+      "publishedAt": "2026.06.30",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19594"
     },
     {
       "department": "산업안전기준과",
-      "newsSeq": "19450",
-      "title": "산업안전보건본부장, 발전5사와 안전관리 실천 논의",
-      "publishedAt": "2026.05.28",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19450"
+      "newsSeq": "19592",
+      "title": "고용노동부, 제조업 끼임사고 반복 사업장 1,000개소 긴급점검 실시",
+      "publishedAt": "2026.06.30",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19592"
     },
     {
       "department": "산재예방지원과",
@@ -46,10 +46,10 @@
     },
     {
       "department": "산업보건정책과",
-      "newsSeq": "19546",
-      "title": "(참고) 외국인 노동자 기초안전보건교육 강화",
-      "publishedAt": "2026.06.18",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19546"
+      "newsSeq": "19594",
+      "title": "(참고) 동일 반복재해 근절 등 안전한 일터를 위한 “노동안전 범정부 협의체” 회의 개최",
+      "publishedAt": "2026.06.30",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19594"
     },
     {
       "department": "산재보상정책과",
@@ -67,17 +67,17 @@
     },
     {
       "department": "직업건강증진팀",
-      "newsSeq": "19541",
-      "title": "고용노동부, 온열질환 예방을 위한 「2026 이동노동자 생수나눔 캠페인」 개최",
-      "publishedAt": "2026.06.17",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19541"
+      "newsSeq": "19585",
+      "title": "(참고) 노동부장관-전국 지방관서장, 온열질환·추락 위험 건설현장 일제 불시점검",
+      "publishedAt": "2026.06.29",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19585"
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19573",
-      "title": "고용노동부, “반복 불소 누출 사고, SK하이닉스 등 반도체 제조업” 집중 점검 착수",
-      "publishedAt": "2026.06.26",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19573"
+      "newsSeq": "19594",
+      "title": "(참고) 동일 반복재해 근절 등 안전한 일터를 위한 “노동안전 범정부 협의체” 회의 개최",
+      "publishedAt": "2026.06.30",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19594"
     },
     {
       "department": "중대산업재해수사과",
@@ -88,17 +88,17 @@
     },
     {
       "department": "건설산재예방감독과",
-      "newsSeq": "19516",
-      "title": "(참고) 고용노동부, ‘사망사고 반복 발생’ ㈜포스코이앤씨에 특단의 조치 시행",
-      "publishedAt": "2026.06.11",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19516"
+      "newsSeq": "19585",
+      "title": "(참고) 노동부장관-전국 지방관서장, 온열질환·추락 위험 건설현장 일제 불시점검",
+      "publishedAt": "2026.06.29",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19585"
     },
     {
       "department": "화학사고예방조사과",
-      "newsSeq": "19473",
-      "title": "(참고) 노동부 장관, 한화에어로스페이스 폭발사고 관련 중산본 2차 회의 개최",
-      "publishedAt": "2026.06.02",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19473"
+      "newsSeq": "19586",
+      "title": "2026년 2분기 신규화학물질 74종 유해성·위험성 공표",
+      "publishedAt": "2026.06.30",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19586"
     },
     {
       "department": "로드맵이행총괄팀",
@@ -139,11 +139,11 @@
       "departments": [
         {
           "department": "산업안전정책과",
-          "count": 7
+          "count": 8
         },
         {
           "department": "산업안전기준과",
-          "count": 5
+          "count": 6
         },
         {
           "department": "산재예방지원과",
@@ -162,7 +162,7 @@
       "departments": [
         {
           "department": "산업보건정책과",
-          "count": 7
+          "count": 8
         },
         {
           "department": "산재보상정책과",
@@ -174,7 +174,7 @@
         },
         {
           "department": "직업건강증진팀",
-          "count": 16
+          "count": 17
         }
       ]
     },
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 36
+          "count": 37
         },
         {
           "department": "중대산업재해수사과",
@@ -193,11 +193,11 @@
         },
         {
           "department": "건설산재예방감독과",
-          "count": 13
+          "count": 14
         },
         {
           "department": "화학사고예방조사과",
-          "count": 13
+          "count": 14
         }
       ]
     },
@@ -220,11 +220,11 @@
   "departmentStats": [
     {
       "department": "산업안전정책과",
-      "count": 7
+      "count": 8
     },
     {
       "department": "산업안전기준과",
-      "count": 5
+      "count": 6
     },
     {
       "department": "산재예방지원과",
@@ -236,7 +236,7 @@
     },
     {
       "department": "산업보건정책과",
-      "count": 7
+      "count": 8
     },
     {
       "department": "산재보상정책과",
@@ -248,11 +248,11 @@
     },
     {
       "department": "직업건강증진팀",
-      "count": 16
+      "count": 17
     },
     {
       "department": "안전보건감독기획과",
-      "count": 36
+      "count": 37
     },
     {
       "department": "중대산업재해수사과",
@@ -260,11 +260,11 @@
     },
     {
       "department": "건설산재예방감독과",
-      "count": 13
+      "count": 14
     },
     {
       "department": "화학사고예방조사과",
-      "count": 13
+      "count": 14
     },
     {
       "department": "로드맵이행총괄팀",
@@ -277,6 +277,20 @@
   ],
   "departmentReleases": {
     "산업안전정책과": [
+      {
+        "newsSeq": "19594",
+        "title": "(참고) 동일 반복재해 근절 등 안전한 일터를 위한 “노동안전 범정부 협의체” 회의 개최",
+        "publishedAt": "2026.06.30",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19594",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260700015&bbs_seq=19594&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260700015&bbs_seq=19594&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260630_보도참고_노동안전_범정부_협의체_회의_개최(수정).pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "산업보건정책과",
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19483",
         "title": "노동 현안 점검고용노동부 전국 기관장회의 개최",
@@ -369,6 +383,18 @@
       }
     ],
     "산업안전기준과": [
+      {
+        "newsSeq": "19592",
+        "title": "고용노동부, 제조업 끼임사고 반복 사업장 1,000개소 긴급점검 실시",
+        "publishedAt": "2026.06.30",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19592",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260602364&bbs_seq=19592&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260602364&bbs_seq=19592&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260630_보도자료_'26.7월 제조업 끼임사고 반복 발생 사업장 긴급 집중 점검 운영.pdf",
+        "coDepartments": [
+          "산업안전기준과"
+        ]
+      },
       {
         "newsSeq": "19450",
         "title": "산업안전보건본부장, 발전5사와 안전관리 실천 논의",
@@ -565,6 +591,20 @@
       }
     ],
     "산업보건정책과": [
+      {
+        "newsSeq": "19594",
+        "title": "(참고) 동일 반복재해 근절 등 안전한 일터를 위한 “노동안전 범정부 협의체” 회의 개최",
+        "publishedAt": "2026.06.30",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19594",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260700015&bbs_seq=19594&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260700015&bbs_seq=19594&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260630_보도참고_노동안전_범정부_협의체_회의_개최(수정).pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "산업보건정책과",
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19546",
         "title": "(참고) 외국인 노동자 기초안전보건교육 강화",
@@ -835,6 +875,19 @@
     ],
     "직업건강증진팀": [
       {
+        "newsSeq": "19585",
+        "title": "(참고) 노동부장관-전국 지방관서장, 온열질환·추락 위험 건설현장 일제 불시점검",
+        "publishedAt": "2026.06.29",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19585",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260602258&bbs_seq=19585&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260602258&bbs_seq=19585&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260629_보도참고_고용노동부 장관 건설현장 폭염 추락 불시점검 실시.pdf",
+        "coDepartments": [
+          "건설산재예방감독과",
+          "직업건강증진팀"
+        ]
+      },
+      {
         "newsSeq": "19541",
         "title": "고용노동부, 온열질환 예방을 위한 「2026 이동노동자 생수나눔 캠페인」 개최",
         "publishedAt": "2026.06.17",
@@ -1039,6 +1092,20 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "19594",
+        "title": "(참고) 동일 반복재해 근절 등 안전한 일터를 위한 “노동안전 범정부 협의체” 회의 개최",
+        "publishedAt": "2026.06.30",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19594",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260700015&bbs_seq=19594&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260700015&bbs_seq=19594&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260630_보도참고_노동안전_범정부_협의체_회의_개최(수정).pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "산업보건정책과",
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19573",
         "title": "고용노동부, “반복 불소 누출 사고, SK하이닉스 등 반도체 제조업” 집중 점검 착수",
@@ -1729,6 +1796,19 @@
     ],
     "건설산재예방감독과": [
       {
+        "newsSeq": "19585",
+        "title": "(참고) 노동부장관-전국 지방관서장, 온열질환·추락 위험 건설현장 일제 불시점검",
+        "publishedAt": "2026.06.29",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19585",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260602258&bbs_seq=19585&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260602258&bbs_seq=19585&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260629_보도참고_고용노동부 장관 건설현장 폭염 추락 불시점검 실시.pdf",
+        "coDepartments": [
+          "건설산재예방감독과",
+          "직업건강증진팀"
+        ]
+      },
+      {
         "newsSeq": "19516",
         "title": "(참고) 고용노동부, ‘사망사고 반복 발생’ ㈜포스코이앤씨에 특단의 조치 시행",
         "publishedAt": "2026.06.11",
@@ -1899,6 +1979,18 @@
       }
     ],
     "화학사고예방조사과": [
+      {
+        "newsSeq": "19586",
+        "title": "2026년 2분기 신규화학물질 74종 유해성·위험성 공표",
+        "publishedAt": "2026.06.30",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19586",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260602321&bbs_seq=19586&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260602321&bbs_seq=19586&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260630_보도자료_신규화학물질의 명칭, 유해성, 위험성 공표 등.pdf",
+        "coDepartments": [
+          "화학사고예방조사과"
+        ]
+      },
       {
         "newsSeq": "19473",
         "title": "(참고) 노동부 장관, 한화에어로스페이스 폭발사고 관련 중산본 2차 회의 개최",
