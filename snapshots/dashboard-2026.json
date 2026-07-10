@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T17:11:51.734Z",
-  "generatedAtKst": "2026. 7. 8. AM 2:11:51",
+  "generatedAt": "2026-07-10T16:54:06.652Z",
+  "generatedAtKst": "2026. 7. 11. AM 1:54:06",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,29 +13,29 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 155,
+  "yearlyReleaseCount": 164,
   "scannedYearRows": 50,
   "items": [
     {
       "department": "산업안전정책과",
-      "newsSeq": "19618",
-      "title": "“내 일터 안전하게, 내일 더 행복하게” 7월은 「산업안전보건의 달」",
-      "publishedAt": "2026.07.06",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19618"
+      "newsSeq": "19635",
+      "title": "첨단기술과 안전상생, 직업건강 우수사례로 안전한 일터를 디자인합니다.",
+      "publishedAt": "2026.07.08",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19635"
     },
     {
       "department": "산업안전기준과",
-      "newsSeq": "19616",
-      "title": "고용노동부 장관, 제조업체 동일 반복 재해 근절을 위한 긴급 점검 회의 개최",
-      "publishedAt": "2026.07.03",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19616"
+      "newsSeq": "19634",
+      "title": "(참고) 제조업 동일 유형 반복사고 사업장, 노동부장관-전국 지방관서장 일제 불시 점검",
+      "publishedAt": "2026.07.08",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19634"
     },
     {
       "department": "산재예방지원과",
-      "newsSeq": "19622",
-      "title": "“안전한 일터를 만든 위험성평가 우수사례 한자리에”",
-      "publishedAt": "2026.07.07",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19622"
+      "newsSeq": "19633",
+      "title": "(참고) 위험성평가 우수사례 발표대회, 높은 호응 속 산업재해 예방 실천사례 공유",
+      "publishedAt": "2026.07.08",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19633"
     },
     {
       "department": "안전보건격차개선과",
@@ -67,10 +67,10 @@
     },
     {
       "department": "직업건강증진팀",
-      "newsSeq": "19585",
-      "title": "(참고) 노동부장관-전국 지방관서장, 온열질환·추락 위험 건설현장 일제 불시점검",
-      "publishedAt": "2026.06.29",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19585"
+      "newsSeq": "19634",
+      "title": "(참고) 제조업 동일 유형 반복사고 사업장, 노동부장관-전국 지방관서장 일제 불시 점검",
+      "publishedAt": "2026.07.08",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19634"
     },
     {
       "department": "안전보건감독기획과",
@@ -88,10 +88,10 @@
     },
     {
       "department": "건설산재예방감독과",
-      "newsSeq": "19585",
-      "title": "(참고) 노동부장관-전국 지방관서장, 온열질환·추락 위험 건설현장 일제 불시점검",
-      "publishedAt": "2026.06.29",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19585"
+      "newsSeq": "19639",
+      "title": "위험 격차 해소의 답을 찾다! ‘안전한 일터 지킴이’ 우수사례 전파",
+      "publishedAt": "2026.07.09",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19639"
     },
     {
       "department": "화학사고예방조사과",
@@ -102,10 +102,10 @@
     },
     {
       "department": "로드맵이행총괄팀",
-      "newsSeq": "19197",
-      "title": "“내 일터 안전하게, 내일 더 행복하게” AI·스마트 산업안전기술 우수사례 챌린지 개최",
-      "publishedAt": "2026.04.07",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19197"
+      "newsSeq": "19635",
+      "title": "첨단기술과 안전상생, 직업건강 우수사례로 안전한 일터를 디자인합니다.",
+      "publishedAt": "2026.07.08",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19635"
     },
     {
       "department": "안전문화협력팀",
@@ -139,15 +139,15 @@
       "departments": [
         {
           "department": "산업안전정책과",
-          "count": 10
+          "count": 11
         },
         {
           "department": "산업안전기준과",
-          "count": 7
+          "count": 9
         },
         {
           "department": "산재예방지원과",
-          "count": 9
+          "count": 11
         },
         {
           "department": "안전보건격차개선과",
@@ -174,7 +174,7 @@
         },
         {
           "department": "직업건강증진팀",
-          "count": 17
+          "count": 19
         }
       ]
     },
@@ -193,7 +193,7 @@
         },
         {
           "department": "건설산재예방감독과",
-          "count": 14
+          "count": 15
         },
         {
           "department": "화학사고예방조사과",
@@ -208,7 +208,7 @@
       "departments": [
         {
           "department": "로드맵이행총괄팀",
-          "count": 2
+          "count": 3
         },
         {
           "department": "안전문화협력팀",
@@ -220,15 +220,15 @@
   "departmentStats": [
     {
       "department": "산업안전정책과",
-      "count": 10
+      "count": 11
     },
     {
       "department": "산업안전기준과",
-      "count": 7
+      "count": 9
     },
     {
       "department": "산재예방지원과",
-      "count": 9
+      "count": 11
     },
     {
       "department": "안전보건격차개선과",
@@ -248,7 +248,7 @@
     },
     {
       "department": "직업건강증진팀",
-      "count": 17
+      "count": 19
     },
     {
       "department": "안전보건감독기획과",
@@ -260,7 +260,7 @@
     },
     {
       "department": "건설산재예방감독과",
-      "count": 14
+      "count": 15
     },
     {
       "department": "화학사고예방조사과",
@@ -268,7 +268,7 @@
     },
     {
       "department": "로드맵이행총괄팀",
-      "count": 2
+      "count": 3
     },
     {
       "department": "안전문화협력팀",
@@ -277,6 +277,21 @@
   ],
   "departmentReleases": {
     "산업안전정책과": [
+      {
+        "newsSeq": "19635",
+        "title": "첨단기술과 안전상생, 직업건강 우수사례로 안전한 일터를 디자인합니다.",
+        "publishedAt": "2026.07.08",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19635",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260700504&bbs_seq=19635&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260700504&bbs_seq=19635&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260708_보도자료_산업안전보건의 달 우수사례 발표대회 및 시상식(최종).pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "산재예방지원과",
+          "직업건강증진팀",
+          "로드맵이행총괄팀"
+        ]
+      },
       {
         "newsSeq": "19618",
         "title": "“내 일터 안전하게, 내일 더 행복하게” 7월은 「산업안전보건의 달」",
@@ -408,6 +423,32 @@
     ],
     "산업안전기준과": [
       {
+        "newsSeq": "19634",
+        "title": "(참고) 제조업 동일 유형 반복사고 사업장, 노동부장관-전국 지방관서장 일제 불시 점검",
+        "publishedAt": "2026.07.08",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19634",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260700500&bbs_seq=19634&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260700500&bbs_seq=19634&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260708_보도참고_제조업 끼임사고 반복 발생 사업장 불시점검.pdf",
+        "coDepartments": [
+          "산업안전기준과",
+          "직업건강증진팀"
+        ]
+      },
+      {
+        "newsSeq": "19639",
+        "title": "위험 격차 해소의 답을 찾다! ‘안전한 일터 지킴이’ 우수사례 전파",
+        "publishedAt": "2026.07.09",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19639",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260700604&bbs_seq=19639&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260700604&bbs_seq=19639&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260709_보도자료_안전한 일터 지킴이 우수사례 발표대회 및 시상식.pdf",
+        "coDepartments": [
+          "건설산재예방감독과",
+          "산업안전기준과"
+        ]
+      },
+      {
         "newsSeq": "19616",
         "title": "고용노동부 장관, 제조업체 동일 반복 재해 근절을 위한 긴급 점검 회의 개최",
         "publishedAt": "2026.07.03",
@@ -498,6 +539,33 @@
       }
     ],
     "산재예방지원과": [
+      {
+        "newsSeq": "19633",
+        "title": "(참고) 위험성평가 우수사례 발표대회, 높은 호응 속 산업재해 예방 실천사례 공유",
+        "publishedAt": "2026.07.08",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19633",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260700498&bbs_seq=19633&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260700498&bbs_seq=19633&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260708_보도참고_2026년_위험성평가_우수사례_발표대회_시상식_개최(수정).pdf",
+        "coDepartments": [
+          "산재예방지원과"
+        ]
+      },
+      {
+        "newsSeq": "19635",
+        "title": "첨단기술과 안전상생, 직업건강 우수사례로 안전한 일터를 디자인합니다.",
+        "publishedAt": "2026.07.08",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19635",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260700504&bbs_seq=19635&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260700504&bbs_seq=19635&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260708_보도자료_산업안전보건의 달 우수사례 발표대회 및 시상식(최종).pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "산재예방지원과",
+          "직업건강증진팀",
+          "로드맵이행총괄팀"
+        ]
+      },
       {
         "newsSeq": "19622",
         "title": "“안전한 일터를 만든 위험성평가 우수사례 한자리에”",
@@ -922,6 +990,34 @@
       }
     ],
     "직업건강증진팀": [
+      {
+        "newsSeq": "19634",
+        "title": "(참고) 제조업 동일 유형 반복사고 사업장, 노동부장관-전국 지방관서장 일제 불시 점검",
+        "publishedAt": "2026.07.08",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19634",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260700500&bbs_seq=19634&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260700500&bbs_seq=19634&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260708_보도참고_제조업 끼임사고 반복 발생 사업장 불시점검.pdf",
+        "coDepartments": [
+          "산업안전기준과",
+          "직업건강증진팀"
+        ]
+      },
+      {
+        "newsSeq": "19635",
+        "title": "첨단기술과 안전상생, 직업건강 우수사례로 안전한 일터를 디자인합니다.",
+        "publishedAt": "2026.07.08",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19635",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260700504&bbs_seq=19635&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260700504&bbs_seq=19635&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260708_보도자료_산업안전보건의 달 우수사례 발표대회 및 시상식(최종).pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "산재예방지원과",
+          "직업건강증진팀",
+          "로드맵이행총괄팀"
+        ]
+      },
       {
         "newsSeq": "19585",
         "title": "(참고) 노동부장관-전국 지방관서장, 온열질환·추락 위험 건설현장 일제 불시점검",
@@ -1844,6 +1940,19 @@
     ],
     "건설산재예방감독과": [
       {
+        "newsSeq": "19639",
+        "title": "위험 격차 해소의 답을 찾다! ‘안전한 일터 지킴이’ 우수사례 전파",
+        "publishedAt": "2026.07.09",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19639",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260700604&bbs_seq=19639&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260700604&bbs_seq=19639&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260709_보도자료_안전한 일터 지킴이 우수사례 발표대회 및 시상식.pdf",
+        "coDepartments": [
+          "건설산재예방감독과",
+          "산업안전기준과"
+        ]
+      },
+      {
         "newsSeq": "19585",
         "title": "(참고) 노동부장관-전국 지방관서장, 온열질환·추락 위험 건설현장 일제 불시점검",
         "publishedAt": "2026.06.29",
@@ -2216,6 +2325,21 @@
       }
     ],
     "로드맵이행총괄팀": [
+      {
+        "newsSeq": "19635",
+        "title": "첨단기술과 안전상생, 직업건강 우수사례로 안전한 일터를 디자인합니다.",
+        "publishedAt": "2026.07.08",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19635",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260700504&bbs_seq=19635&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260700504&bbs_seq=19635&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260708_보도자료_산업안전보건의 달 우수사례 발표대회 및 시상식(최종).pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "산재예방지원과",
+          "직업건강증진팀",
+          "로드맵이행총괄팀"
+        ]
+      },
       {
         "newsSeq": "19197",
         "title": "“내 일터 안전하게, 내일 더 행복하게” AI·스마트 산업안전기술 우수사례 챌린지 개최",
