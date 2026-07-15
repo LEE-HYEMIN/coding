@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T15:57:36.519Z",
-  "generatedAtKst": "2026. 7. 13. AM 12:57:36",
+  "generatedAt": "2026-07-15T16:19:08.830Z",
+  "generatedAtKst": "2026. 7. 16. AM 1:19:08",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 164,
+  "yearlyReleaseCount": 165,
   "scannedYearRows": 50,
   "items": [
     {
@@ -81,10 +81,10 @@
     },
     {
       "department": "중대산업재해수사과",
-      "newsSeq": "19516",
-      "title": "(참고) 고용노동부, ‘사망사고 반복 발생’ ㈜포스코이앤씨에 특단의 조치 시행",
-      "publishedAt": "2026.06.11",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19516"
+      "newsSeq": "19661",
+      "title": "2026년 상반기 산업재해 현황 부가통계 “재해조사 대상 사망사고 발생 현황” 잠정결과 발표",
+      "publishedAt": "2026.07.15",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19661"
     },
     {
       "department": "건설산재예방감독과",
@@ -189,7 +189,7 @@
         },
         {
           "department": "중대산업재해수사과",
-          "count": 16
+          "count": 17
         },
         {
           "department": "건설산재예방감독과",
@@ -256,7 +256,7 @@
     },
     {
       "department": "중대산업재해수사과",
-      "count": 16
+      "count": 17
     },
     {
       "department": "건설산재예방감독과",
@@ -1719,6 +1719,18 @@
       }
     ],
     "중대산업재해수사과": [
+      {
+        "newsSeq": "19661",
+        "title": "2026년 상반기 산업재해 현황 부가통계 “재해조사 대상 사망사고 발생 현황” 잠정결과 발표",
+        "publishedAt": "2026.07.15",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19661",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260700979&bbs_seq=19661&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260700979&bbs_seq=19661&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260715_보도자료_26년 상반기 재해조사대상 사망사고 통계 발표.pdf",
+        "coDepartments": [
+          "중대산업재해수사과"
+        ]
+      },
       {
         "newsSeq": "19516",
         "title": "(참고) 고용노동부, ‘사망사고 반복 발생’ ㈜포스코이앤씨에 특단의 조치 시행",
