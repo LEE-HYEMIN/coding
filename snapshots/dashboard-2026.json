@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-19T15:55:17.469Z",
-  "generatedAtKst": "2026. 7. 20. AM 12:55:17",
+  "generatedAt": "2026-07-21T16:21:25.805Z",
+  "generatedAtKst": "2026. 7. 22. AM 1:21:25",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,15 +13,15 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 165,
+  "yearlyReleaseCount": 168,
   "scannedYearRows": 50,
   "items": [
     {
       "department": "산업안전정책과",
-      "newsSeq": "19635",
-      "title": "첨단기술과 안전상생, 직업건강 우수사례로 안전한 일터를 디자인합니다.",
-      "publishedAt": "2026.07.08",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19635"
+      "newsSeq": "19675",
+      "title": "「산업안전보건법 시행령」 개정안 국무회의 심의·의결",
+      "publishedAt": "2026.07.21",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19675"
     },
     {
       "department": "산업안전기준과",
@@ -32,10 +32,10 @@
     },
     {
       "department": "산재예방지원과",
-      "newsSeq": "19633",
-      "title": "(참고) 위험성평가 우수사례 발표대회, 높은 호응 속 산업재해 예방 실천사례 공유",
-      "publishedAt": "2026.07.08",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19633"
+      "newsSeq": "19675",
+      "title": "「산업안전보건법 시행령」 개정안 국무회의 심의·의결",
+      "publishedAt": "2026.07.21",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19675"
     },
     {
       "department": "안전보건격차개선과",
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19594",
-      "title": "(참고) 동일 반복재해 근절 등 안전한 일터를 위한 “노동안전 범정부 협의체” 회의 개최",
-      "publishedAt": "2026.06.30",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19594"
+      "newsSeq": "19675",
+      "title": "「산업안전보건법 시행령」 개정안 국무회의 심의·의결",
+      "publishedAt": "2026.07.21",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19675"
     },
     {
       "department": "중대산업재해수사과",
@@ -139,7 +139,7 @@
       "departments": [
         {
           "department": "산업안전정책과",
-          "count": 11
+          "count": 12
         },
         {
           "department": "산업안전기준과",
@@ -147,7 +147,7 @@
         },
         {
           "department": "산재예방지원과",
-          "count": 11
+          "count": 12
         },
         {
           "department": "안전보건격차개선과",
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 37
+          "count": 38
         },
         {
           "department": "중대산업재해수사과",
@@ -220,7 +220,7 @@
   "departmentStats": [
     {
       "department": "산업안전정책과",
-      "count": 11
+      "count": 12
     },
     {
       "department": "산업안전기준과",
@@ -228,7 +228,7 @@
     },
     {
       "department": "산재예방지원과",
-      "count": 11
+      "count": 12
     },
     {
       "department": "안전보건격차개선과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 37
+      "count": 38
     },
     {
       "department": "중대산업재해수사과",
@@ -277,6 +277,20 @@
   ],
   "departmentReleases": {
     "산업안전정책과": [
+      {
+        "newsSeq": "19675",
+        "title": "「산업안전보건법 시행령」 개정안 국무회의 심의·의결",
+        "publishedAt": "2026.07.21",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19675",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260701236&bbs_seq=19675&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260701236&bbs_seq=19675&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260721_보도자료_산업안전보건법 시행령 일부개정령안 국무회의 심의의결.pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "산재예방지원과",
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19635",
         "title": "첨단기술과 안전상생, 직업건강 우수사례로 안전한 일터를 디자인합니다.",
@@ -539,6 +553,20 @@
       }
     ],
     "산재예방지원과": [
+      {
+        "newsSeq": "19675",
+        "title": "「산업안전보건법 시행령」 개정안 국무회의 심의·의결",
+        "publishedAt": "2026.07.21",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19675",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260701236&bbs_seq=19675&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260701236&bbs_seq=19675&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260721_보도자료_산업안전보건법 시행령 일부개정령안 국무회의 심의의결.pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "산재예방지원과",
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19633",
         "title": "(참고) 위험성평가 우수사례 발표대회, 높은 호응 속 산업재해 예방 실천사례 공유",
@@ -1236,6 +1264,20 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "19675",
+        "title": "「산업안전보건법 시행령」 개정안 국무회의 심의·의결",
+        "publishedAt": "2026.07.21",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19675",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260701236&bbs_seq=19675&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260701236&bbs_seq=19675&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260721_보도자료_산업안전보건법 시행령 일부개정령안 국무회의 심의의결.pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "산재예방지원과",
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19594",
         "title": "(참고) 동일 반복재해 근절 등 안전한 일터를 위한 “노동안전 범정부 협의체” 회의 개최",
