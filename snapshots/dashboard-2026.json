@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T16:21:25.805Z",
-  "generatedAtKst": "2026. 7. 22. AM 1:21:25",
+  "generatedAt": "2026-07-22T16:18:17.571Z",
+  "generatedAtKst": "2026. 7. 23. AM 1:18:17",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 168,
+  "yearlyReleaseCount": 169,
   "scannedYearRows": 50,
   "items": [
     {
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19675",
-      "title": "「산업안전보건법 시행령」 개정안 국무회의 심의·의결",
-      "publishedAt": "2026.07.21",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19675"
+      "newsSeq": "19681",
+      "title": "노동부-경기도, 지방감독시대를 열다...민선9기 첫 업무협약 체결",
+      "publishedAt": "2026.07.22",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19681"
     },
     {
       "department": "중대산업재해수사과",
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 38
+          "count": 39
         },
         {
           "department": "중대산업재해수사과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 38
+      "count": 39
     },
     {
       "department": "중대산업재해수사과",
@@ -1264,6 +1264,18 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "19681",
+        "title": "노동부-경기도, 지방감독시대를 열다...민선9기 첫 업무협약 체결",
+        "publishedAt": "2026.07.22",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19681",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260701341&bbs_seq=19681&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260701341&bbs_seq=19681&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260722_보도자료_노동감독 협업체계 마련을 위한 노동부-경기도 업무협약.pdf",
+        "coDepartments": [
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19675",
         "title": "「산업안전보건법 시행령」 개정안 국무회의 심의·의결",
