@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T16:25:06.637Z",
-  "generatedAtKst": "2026. 7. 24. AM 1:25:06",
+  "generatedAt": "2026-07-24T16:31:53.948Z",
+  "generatedAtKst": "2026. 7. 25. AM 1:31:53",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 169,
+  "yearlyReleaseCount": 170,
   "scannedYearRows": 50,
   "items": [
     {
@@ -46,10 +46,10 @@
     },
     {
       "department": "산업보건정책과",
-      "newsSeq": "19594",
-      "title": "(참고) 동일 반복재해 근절 등 안전한 일터를 위한 “노동안전 범정부 협의체” 회의 개최",
-      "publishedAt": "2026.06.30",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19594"
+      "newsSeq": "19691",
+      "title": "「2026 산업보건-화학물질 제도 정책포럼 세미나」 개최",
+      "publishedAt": "2026.07.24",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19691"
     },
     {
       "department": "산재보상정책과",
@@ -162,7 +162,7 @@
       "departments": [
         {
           "department": "산업보건정책과",
-          "count": 8
+          "count": 9
         },
         {
           "department": "산재보상정책과",
@@ -236,7 +236,7 @@
     },
     {
       "department": "산업보건정책과",
-      "count": 8
+      "count": 9
     },
     {
       "department": "산재보상정책과",
@@ -735,6 +735,18 @@
       }
     ],
     "산업보건정책과": [
+      {
+        "newsSeq": "19691",
+        "title": "「2026 산업보건-화학물질 제도 정책포럼 세미나」 개최",
+        "publishedAt": "2026.07.24",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19691",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260701475&bbs_seq=19691&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260701475&bbs_seq=19691&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260724_보도자료_2026 산업보건-화학물질 제도 정책 포럼.pdf",
+        "coDepartments": [
+          "산업보건정책과"
+        ]
+      },
       {
         "newsSeq": "19594",
         "title": "(참고) 동일 반복재해 근절 등 안전한 일터를 위한 “노동안전 범정부 협의체” 회의 개최",
