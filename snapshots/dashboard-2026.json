@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-26T15:59:26.845Z",
-  "generatedAtKst": "2026. 7. 27. AM 12:59:26",
+  "generatedAt": "2026-07-28T16:38:28.458Z",
+  "generatedAtKst": "2026. 7. 29. AM 1:38:28",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 170,
+  "yearlyReleaseCount": 173,
   "scannedYearRows": 50,
   "items": [
     {
@@ -46,10 +46,10 @@
     },
     {
       "department": "산업보건정책과",
-      "newsSeq": "19691",
-      "title": "「2026 산업보건-화학물질 제도 정책포럼 세미나」 개최",
-      "publishedAt": "2026.07.24",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19691"
+      "newsSeq": "19707",
+      "title": "폭염은 재난, 5대 기본 수칙 준수가 생명을 살리는 가장 빠른 작업입니다.",
+      "publishedAt": "2026.07.28",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19707"
     },
     {
       "department": "산재보상정책과",
@@ -67,10 +67,10 @@
     },
     {
       "department": "직업건강증진팀",
-      "newsSeq": "19634",
-      "title": "(참고) 제조업 동일 유형 반복사고 사업장, 노동부장관-전국 지방관서장 일제 불시 점검",
-      "publishedAt": "2026.07.08",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19634"
+      "newsSeq": "19699",
+      "title": "“12월 지방노동감독 첫선”...노동부, 16개 시·도에 빈틈없는 준비 당부",
+      "publishedAt": "2026.07.27",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19699"
     },
     {
       "department": "안전보건감독기획과",
@@ -162,7 +162,7 @@
       "departments": [
         {
           "department": "산업보건정책과",
-          "count": 9
+          "count": 10
         },
         {
           "department": "산재보상정책과",
@@ -174,7 +174,7 @@
         },
         {
           "department": "직업건강증진팀",
-          "count": 19
+          "count": 21
         }
       ]
     },
@@ -236,7 +236,7 @@
     },
     {
       "department": "산업보건정책과",
-      "count": 9
+      "count": 10
     },
     {
       "department": "산재보상정책과",
@@ -248,7 +248,7 @@
     },
     {
       "department": "직업건강증진팀",
-      "count": 19
+      "count": 21
     },
     {
       "department": "안전보건감독기획과",
@@ -736,6 +736,19 @@
     ],
     "산업보건정책과": [
       {
+        "newsSeq": "19707",
+        "title": "폭염은 재난, 5대 기본 수칙 준수가 생명을 살리는 가장 빠른 작업입니다.",
+        "publishedAt": "2026.07.28",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19707",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260701660&bbs_seq=19707&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260701660&bbs_seq=19707&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260728_보도자료_26.8월 폭염대비 온열질환 예방 집중점검.pdf",
+        "coDepartments": [
+          "산업보건정책과",
+          "직업건강증진팀"
+        ]
+      },
+      {
         "newsSeq": "19691",
         "title": "「2026 산업보건-화학물질 제도 정책포럼 세미나」 개최",
         "publishedAt": "2026.07.24",
@@ -1030,6 +1043,31 @@
       }
     ],
     "직업건강증진팀": [
+      {
+        "newsSeq": "19699",
+        "title": "“12월 지방노동감독 첫선”...노동부, 16개 시·도에 빈틈없는 준비 당부",
+        "publishedAt": "2026.07.27",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19699",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260701551&bbs_seq=19699&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260701551&bbs_seq=19699&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260727_보도자료_제6회 중앙지방정책협의회 개최(수정).pdf",
+        "coDepartments": [
+          "직업건강증진팀"
+        ]
+      },
+      {
+        "newsSeq": "19707",
+        "title": "폭염은 재난, 5대 기본 수칙 준수가 생명을 살리는 가장 빠른 작업입니다.",
+        "publishedAt": "2026.07.28",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19707",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260701660&bbs_seq=19707&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260701660&bbs_seq=19707&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260728_보도자료_26.8월 폭염대비 온열질환 예방 집중점검.pdf",
+        "coDepartments": [
+          "산업보건정책과",
+          "직업건강증진팀"
+        ]
+      },
       {
         "newsSeq": "19634",
         "title": "(참고) 제조업 동일 유형 반복사고 사업장, 노동부장관-전국 지방관서장 일제 불시 점검",
