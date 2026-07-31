@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T16:24:33.511Z",
-  "generatedAtKst": "2026. 7. 31. AM 1:24:33",
+  "generatedAt": "2026-07-31T16:43:46.179Z",
+  "generatedAtKst": "2026. 8. 1. AM 1:43:46",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 173,
+  "yearlyReleaseCount": 174,
   "scannedYearRows": 50,
   "items": [
     {
@@ -67,10 +67,10 @@
     },
     {
       "department": "직업건강증진팀",
-      "newsSeq": "19699",
-      "title": "“12월 지방노동감독 첫선”...노동부, 16개 시·도에 빈틈없는 준비 당부",
-      "publishedAt": "2026.07.27",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19699"
+      "newsSeq": "19730",
+      "title": "노동부 장관, 택배 물류센터 야간 불시점검",
+      "publishedAt": "2026.07.31",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19730"
     },
     {
       "department": "안전보건감독기획과",
@@ -174,7 +174,7 @@
         },
         {
           "department": "직업건강증진팀",
-          "count": 21
+          "count": 22
         }
       ]
     },
@@ -248,7 +248,7 @@
     },
     {
       "department": "직업건강증진팀",
-      "count": 21
+      "count": 22
     },
     {
       "department": "안전보건감독기획과",
@@ -1043,6 +1043,18 @@
       }
     ],
     "직업건강증진팀": [
+      {
+        "newsSeq": "19730",
+        "title": "노동부 장관, 택배 물류센터 야간 불시점검",
+        "publishedAt": "2026.07.31",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19730",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260701962&bbs_seq=19730&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260701962&bbs_seq=19730&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260731_보도참고_폭염 중대경보 대응 취약사업장(물류센터) 불시점검.pdf",
+        "coDepartments": [
+          "직업건강증진팀"
+        ]
+      },
       {
         "newsSeq": "19699",
         "title": "“12월 지방노동감독 첫선”...노동부, 16개 시·도에 빈틈없는 준비 당부",
