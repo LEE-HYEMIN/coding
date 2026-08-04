@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-31T16:43:46.179Z",
-  "generatedAtKst": "2026. 8. 1. AM 1:43:46",
+  "generatedAt": "2026-08-04T16:49:21.884Z",
+  "generatedAtKst": "2026. 8. 5. AM 1:49:21",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 174,
+  "yearlyReleaseCount": 177,
   "scannedYearRows": 50,
   "items": [
     {
@@ -46,10 +46,10 @@
     },
     {
       "department": "산업보건정책과",
-      "newsSeq": "19707",
-      "title": "폭염은 재난, 5대 기본 수칙 준수가 생명을 살리는 가장 빠른 작업입니다.",
-      "publishedAt": "2026.07.28",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19707"
+      "newsSeq": "19732",
+      "title": "(참고) 고용노동부 장관, 폭염 중대본 2단계 격상에 따라 폭염 및 질식위험 대응 강화 긴급지시",
+      "publishedAt": "2026.08.02",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19732"
     },
     {
       "department": "산재보상정책과",
@@ -67,17 +67,17 @@
     },
     {
       "department": "직업건강증진팀",
-      "newsSeq": "19730",
-      "title": "노동부 장관, 택배 물류센터 야간 불시점검",
-      "publishedAt": "2026.07.31",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19730"
+      "newsSeq": "19732",
+      "title": "(참고) 고용노동부 장관, 폭염 중대본 2단계 격상에 따라 폭염 및 질식위험 대응 강화 긴급지시",
+      "publishedAt": "2026.08.02",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19732"
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19681",
-      "title": "노동부-경기도, 지방감독시대를 열다...민선9기 첫 업무협약 체결",
-      "publishedAt": "2026.07.22",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19681"
+      "newsSeq": "19736",
+      "title": "(참고)“지게차 위 노동자 추락” A 식자재 업체 즉시 산안-노동 합동 기획감독 착수",
+      "publishedAt": "2026.08.04",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19736"
     },
     {
       "department": "중대산업재해수사과",
@@ -162,7 +162,7 @@
       "departments": [
         {
           "department": "산업보건정책과",
-          "count": 10
+          "count": 11
         },
         {
           "department": "산재보상정책과",
@@ -174,7 +174,7 @@
         },
         {
           "department": "직업건강증진팀",
-          "count": 22
+          "count": 23
         }
       ]
     },
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 39
+          "count": 40
         },
         {
           "department": "중대산업재해수사과",
@@ -236,7 +236,7 @@
     },
     {
       "department": "산업보건정책과",
-      "count": 10
+      "count": 11
     },
     {
       "department": "산재보상정책과",
@@ -248,11 +248,11 @@
     },
     {
       "department": "직업건강증진팀",
-      "count": 22
+      "count": 23
     },
     {
       "department": "안전보건감독기획과",
-      "count": 39
+      "count": 40
     },
     {
       "department": "중대산업재해수사과",
@@ -736,6 +736,19 @@
     ],
     "산업보건정책과": [
       {
+        "newsSeq": "19732",
+        "title": "(참고) 고용노동부 장관, 폭염 중대본 2단계 격상에 따라 폭염 및 질식위험 대응 강화 긴급지시",
+        "publishedAt": "2026.08.02",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19732",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260800010&bbs_seq=19732&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260800010&bbs_seq=19732&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260802_보도참고_폭염 중대본 2단계 격상에 따라 폭염 및 질식위험 대응 강화 긴급지시.pdf",
+        "coDepartments": [
+          "직업건강증진팀",
+          "산업보건정책과"
+        ]
+      },
+      {
         "newsSeq": "19707",
         "title": "폭염은 재난, 5대 기본 수칙 준수가 생명을 살리는 가장 빠른 작업입니다.",
         "publishedAt": "2026.07.28",
@@ -1044,6 +1057,19 @@
     ],
     "직업건강증진팀": [
       {
+        "newsSeq": "19732",
+        "title": "(참고) 고용노동부 장관, 폭염 중대본 2단계 격상에 따라 폭염 및 질식위험 대응 강화 긴급지시",
+        "publishedAt": "2026.08.02",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19732",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260800010&bbs_seq=19732&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260800010&bbs_seq=19732&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260802_보도참고_폭염 중대본 2단계 격상에 따라 폭염 및 질식위험 대응 강화 긴급지시.pdf",
+        "coDepartments": [
+          "직업건강증진팀",
+          "산업보건정책과"
+        ]
+      },
+      {
         "newsSeq": "19730",
         "title": "노동부 장관, 택배 물류센터 야간 불시점검",
         "publishedAt": "2026.07.31",
@@ -1326,6 +1352,18 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "19736",
+        "title": "(참고)“지게차 위 노동자 추락” A 식자재 업체 즉시 산안-노동 합동 기획감독 착수",
+        "publishedAt": "2026.08.04",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19736",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260800114&bbs_seq=19736&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260800114&bbs_seq=19736&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260804_보도참고_지게차 위 노동자 추락 관련 식자재 마트 감독 계획.pdf",
+        "coDepartments": [
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19681",
         "title": "노동부-경기도, 지방감독시대를 열다...민선9기 첫 업무협약 체결",
