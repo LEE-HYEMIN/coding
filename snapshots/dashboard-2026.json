@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-10T15:57:34.767Z",
-  "generatedAtKst": "2026. 8. 11. AM 12:57:34",
+  "generatedAt": "2026-08-11T15:58:35.659Z",
+  "generatedAtKst": "2026. 8. 12. AM 12:58:35",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 179,
+  "yearlyReleaseCount": 180,
   "scannedYearRows": 50,
   "items": [
     {
@@ -39,10 +39,10 @@
     },
     {
       "department": "안전보건격차개선과",
-      "newsSeq": "19513",
-      "title": "전남광주 산업안전보건의 미래, 현장에서 함께 해법을 찾는다!",
-      "publishedAt": "2026.06.10",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19513"
+      "newsSeq": "19767",
+      "title": "함께 만드는 안전한 대구·경북!",
+      "publishedAt": "2026.08.11",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19767"
     },
     {
       "department": "산업보건정책과",
@@ -151,7 +151,7 @@
         },
         {
           "department": "안전보건격차개선과",
-          "count": 2
+          "count": 3
         }
       ]
     },
@@ -232,7 +232,7 @@
     },
     {
       "department": "안전보건격차개선과",
-      "count": 2
+      "count": 3
     },
     {
       "department": "산업보건정책과",
@@ -709,6 +709,18 @@
       }
     ],
     "안전보건격차개선과": [
+      {
+        "newsSeq": "19767",
+        "title": "함께 만드는 안전한 대구·경북!",
+        "publishedAt": "2026.08.11",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19767",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260800676&bbs_seq=19767&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260800676&bbs_seq=19767&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260811_보도자료_대구경북 산업안전거버넌스 라운드테이블.pdf",
+        "coDepartments": [
+          "안전보건격차개선과"
+        ]
+      },
       {
         "newsSeq": "19513",
         "title": "전남광주 산업안전보건의 미래, 현장에서 함께 해법을 찾는다!",
