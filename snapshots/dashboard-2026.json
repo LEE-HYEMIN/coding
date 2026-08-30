@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28T23:51:20.308Z",
-  "generatedAtKst": "2026. 8. 29. AM 8:51:20",
+  "generatedAt": "2026-08-30T18:23:54.793Z",
+  "generatedAtKst": "2026. 8. 31. AM 3:23:54",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 184,
+  "yearlyReleaseCount": 186,
   "scannedYearRows": 50,
   "items": [
     {
@@ -25,10 +25,10 @@
     },
     {
       "department": "산업안전기준과",
-      "newsSeq": "19634",
-      "title": "(참고) 제조업 동일 유형 반복사고 사업장, 노동부장관-전국 지방관서장 일제 불시 점검",
-      "publishedAt": "2026.07.08",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19634"
+      "newsSeq": "19846",
+      "title": "제조업 “중대재해 고위험 기계·기구” 지게차, 크레인, 컨베이어 집중점검",
+      "publishedAt": "2026.08.30",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19846"
     },
     {
       "department": "산재예방지원과",
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19841",
-      "title": "(참고) 노동부장관, 충남 천안시 공장 화재사고 관련 사고수습·대응 철저 긴급지시",
-      "publishedAt": "2026.08.28",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19841"
+      "newsSeq": "19846",
+      "title": "제조업 “중대재해 고위험 기계·기구” 지게차, 크레인, 컨베이어 집중점검",
+      "publishedAt": "2026.08.30",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19846"
     },
     {
       "department": "중대산업재해수사과",
@@ -143,7 +143,7 @@
         },
         {
           "department": "산업안전기준과",
-          "count": 9
+          "count": 10
         },
         {
           "department": "산재예방지원과",
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 42
+          "count": 43
         },
         {
           "department": "중대산업재해수사과",
@@ -224,7 +224,7 @@
     },
     {
       "department": "산업안전기준과",
-      "count": 9
+      "count": 10
     },
     {
       "department": "산재예방지원과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 42
+      "count": 43
     },
     {
       "department": "중대산업재해수사과",
@@ -436,6 +436,19 @@
       }
     ],
     "산업안전기준과": [
+      {
+        "newsSeq": "19846",
+        "title": "제조업 “중대재해 고위험 기계·기구” 지게차, 크레인, 컨베이어 집중점검",
+        "publishedAt": "2026.08.30",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19846",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260801691&bbs_seq=19846&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260801691&bbs_seq=19846&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260830_보도자료_26.9월 제조업 고위험 기계기구 취급사업장 집중 점검 운영.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "산업안전기준과"
+        ]
+      },
       {
         "newsSeq": "19634",
         "title": "(참고) 제조업 동일 유형 반복사고 사업장, 노동부장관-전국 지방관서장 일제 불시 점검",
@@ -1388,6 +1401,19 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "19846",
+        "title": "제조업 “중대재해 고위험 기계·기구” 지게차, 크레인, 컨베이어 집중점검",
+        "publishedAt": "2026.08.30",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19846",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260801691&bbs_seq=19846&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260801691&bbs_seq=19846&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260830_보도자료_26.9월 제조업 고위험 기계기구 취급사업장 집중 점검 운영.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "산업안전기준과"
+        ]
+      },
       {
         "newsSeq": "19841",
         "title": "(참고) 노동부장관, 충남 천안시 공장 화재사고 관련 사고수습·대응 철저 긴급지시",
