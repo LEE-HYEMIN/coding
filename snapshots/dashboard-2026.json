@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T20:38:41.097Z",
-  "generatedAtKst": "2026. 9. 1. AM 5:38:41",
+  "generatedAt": "2026-09-05T17:07:56.530Z",
+  "generatedAtKst": "2026. 9. 6. AM 2:07:56",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,15 +13,15 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 186,
+  "yearlyReleaseCount": 188,
   "scannedYearRows": 50,
   "items": [
     {
       "department": "산업안전정책과",
-      "newsSeq": "19675",
-      "title": "「산업안전보건법 시행령」 개정안 국무회의 심의·의결",
-      "publishedAt": "2026.07.21",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19675"
+      "newsSeq": "19865",
+      "title": "고용노동부 장관, 동일 반복 재해 근절을 위한 공공기관 점검 회의 개최",
+      "publishedAt": "2026.09.01",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19865"
     },
     {
       "department": "산업안전기준과",
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19846",
-      "title": "제조업 “중대재해 고위험 기계·기구” 지게차, 크레인, 컨베이어 집중점검",
-      "publishedAt": "2026.08.30",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19846"
+      "newsSeq": "19865",
+      "title": "고용노동부 장관, 동일 반복 재해 근절을 위한 공공기관 점검 회의 개최",
+      "publishedAt": "2026.09.01",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19865"
     },
     {
       "department": "중대산업재해수사과",
@@ -139,7 +139,7 @@
       "departments": [
         {
           "department": "산업안전정책과",
-          "count": 12
+          "count": 13
         },
         {
           "department": "산업안전기준과",
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 43
+          "count": 44
         },
         {
           "department": "중대산업재해수사과",
@@ -220,7 +220,7 @@
   "departmentStats": [
     {
       "department": "산업안전정책과",
-      "count": 12
+      "count": 13
     },
     {
       "department": "산업안전기준과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 43
+      "count": 44
     },
     {
       "department": "중대산업재해수사과",
@@ -277,6 +277,19 @@
   ],
   "departmentReleases": {
     "산업안전정책과": [
+      {
+        "newsSeq": "19865",
+        "title": "고용노동부 장관, 동일 반복 재해 근절을 위한 공공기관 점검 회의 개최",
+        "publishedAt": "2026.09.01",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19865",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260900074&bbs_seq=19865&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260900074&bbs_seq=19865&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260901_보도자료_동일 유형 반복 사고 근절 공공기관 점검회의.pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19675",
         "title": "「산업안전보건법 시행령」 개정안 국무회의 심의·의결",
@@ -1401,6 +1414,19 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "19865",
+        "title": "고용노동부 장관, 동일 반복 재해 근절을 위한 공공기관 점검 회의 개최",
+        "publishedAt": "2026.09.01",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19865",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260900074&bbs_seq=19865&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260900074&bbs_seq=19865&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260901_보도자료_동일 유형 반복 사고 근절 공공기관 점검회의.pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19846",
         "title": "제조업 “중대재해 고위험 기계·기구” 지게차, 크레인, 컨베이어 집중점검",
