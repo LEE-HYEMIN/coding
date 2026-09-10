@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T18:58:57.263Z",
-  "generatedAtKst": "2026. 9. 8. AM 3:58:57",
+  "generatedAt": "2026-09-10T18:04:32.288Z",
+  "generatedAtKst": "2026. 9. 11. AM 3:04:32",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 190,
+  "yearlyReleaseCount": 194,
   "scannedYearRows": 50,
   "items": [
     {
@@ -25,10 +25,10 @@
     },
     {
       "department": "산업안전기준과",
-      "newsSeq": "19846",
-      "title": "제조업 “중대재해 고위험 기계·기구” 지게차, 크레인, 컨베이어 집중점검",
-      "publishedAt": "2026.08.30",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19846"
+      "newsSeq": "19924",
+      "title": "“작업장 안전디자인으로산업재해를 예방하세요”",
+      "publishedAt": "2026.09.10",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19924"
     },
     {
       "department": "산재예방지원과",
@@ -39,10 +39,10 @@
     },
     {
       "department": "안전보건격차개선과",
-      "newsSeq": "19767",
-      "title": "함께 만드는 안전한 대구·경북!",
-      "publishedAt": "2026.08.11",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19767"
+      "newsSeq": "19913",
+      "title": "(참고)노동부 장관, 외국인 노동자 다수 고용 제조업 취약 사업장 불시 점검",
+      "publishedAt": "2026.09.09",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19913"
     },
     {
       "department": "산업보건정책과",
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19898",
-      "title": "고용노동부, “특별한 성과에 합당한 보상” 노동·산업안전 우수직원 특별 포상",
-      "publishedAt": "2026.09.07",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19898"
+      "newsSeq": "19913",
+      "title": "(참고)노동부 장관, 외국인 노동자 다수 고용 제조업 취약 사업장 불시 점검",
+      "publishedAt": "2026.09.09",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19913"
     },
     {
       "department": "중대산업재해수사과",
@@ -143,7 +143,7 @@
         },
         {
           "department": "산업안전기준과",
-          "count": 10
+          "count": 11
         },
         {
           "department": "산재예방지원과",
@@ -151,7 +151,7 @@
         },
         {
           "department": "안전보건격차개선과",
-          "count": 3
+          "count": 4
         }
       ]
     },
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 45
+          "count": 47
         },
         {
           "department": "중대산업재해수사과",
@@ -224,7 +224,7 @@
     },
     {
       "department": "산업안전기준과",
-      "count": 10
+      "count": 11
     },
     {
       "department": "산재예방지원과",
@@ -232,7 +232,7 @@
     },
     {
       "department": "안전보건격차개선과",
-      "count": 3
+      "count": 4
     },
     {
       "department": "산업보건정책과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 45
+      "count": 47
     },
     {
       "department": "중대산업재해수사과",
@@ -449,6 +449,18 @@
       }
     ],
     "산업안전기준과": [
+      {
+        "newsSeq": "19924",
+        "title": "“작업장 안전디자인으로산업재해를 예방하세요”",
+        "publishedAt": "2026.09.10",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19924",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260900674&bbs_seq=19924&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260900674&bbs_seq=19924&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260910_보도자료_작업장_안전디자인_지원_내용_안내.pdf",
+        "coDepartments": [
+          "산업안전기준과"
+        ]
+      },
       {
         "newsSeq": "19846",
         "title": "제조업 “중대재해 고위험 기계·기구” 지게차, 크레인, 컨베이어 집중점검",
@@ -735,6 +747,19 @@
       }
     ],
     "안전보건격차개선과": [
+      {
+        "newsSeq": "19913",
+        "title": "(참고)노동부 장관, 외국인 노동자 다수 고용 제조업 취약 사업장 불시 점검",
+        "publishedAt": "2026.09.09",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19913",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260900609&bbs_seq=19913&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260900609&bbs_seq=19913&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260909_보도참고_외국인 노동자 다수 고용 제조업 취약 사업장 불시 점검.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "안전보건격차개선과"
+        ]
+      },
       {
         "newsSeq": "19767",
         "title": "함께 만드는 안전한 대구·경북!",
@@ -1414,6 +1439,31 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "19913",
+        "title": "(참고)노동부 장관, 외국인 노동자 다수 고용 제조업 취약 사업장 불시 점검",
+        "publishedAt": "2026.09.09",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19913",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260900609&bbs_seq=19913&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260900609&bbs_seq=19913&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260909_보도참고_외국인 노동자 다수 고용 제조업 취약 사업장 불시 점검.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "안전보건격차개선과"
+        ]
+      },
+      {
+        "newsSeq": "19914",
+        "title": "제1회 전국노동감독협의회 개최 … 지방 노동감독 청사진 공개",
+        "publishedAt": "2026.09.10",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19914",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260900626&bbs_seq=19914&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260900626&bbs_seq=19914&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260910_보도자료_제1회 전국노동감독협의회 개최(수정).pdf",
+        "coDepartments": [
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19898",
         "title": "고용노동부, “특별한 성과에 합당한 보상” 노동·산업안전 우수직원 특별 포상",
