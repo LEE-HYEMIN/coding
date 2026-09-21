@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-20T17:55:48.525Z",
-  "generatedAtKst": "2026. 9. 21. AM 2:55:48",
+  "generatedAt": "2026-09-21T19:51:25.529Z",
+  "generatedAtKst": "2026. 9. 22. AM 4:51:25",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 198,
+  "yearlyReleaseCount": 200,
   "scannedYearRows": 50,
   "items": [
     {
@@ -53,10 +53,10 @@
     },
     {
       "department": "산재보상정책과",
-      "newsSeq": "19560",
-      "title": "「고용보험법 시행령」, 「산업재해보상보험법 시행령」 개정안 국무회의 심의·의결",
-      "publishedAt": "2026.06.23",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19560"
+      "newsSeq": "19983",
+      "title": "김영훈 장관, 추석 연휴 앞두고 산재병원 위문 방문",
+      "publishedAt": "2026.09.21",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19983"
     },
     {
       "department": "노무제공자안전보호과",
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19976",
-      "title": "반도체 제조업 집중 점검 결과 발표",
-      "publishedAt": "2026.09.20",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19976"
+      "newsSeq": "19982",
+      "title": "HL만도 평택공장 산업안전 감독 결과 발표",
+      "publishedAt": "2026.09.21",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19982"
     },
     {
       "department": "중대산업재해수사과",
@@ -166,7 +166,7 @@
         },
         {
           "department": "산재보상정책과",
-          "count": 10
+          "count": 11
         },
         {
           "department": "노무제공자안전보호과",
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 49
+          "count": 50
         },
         {
           "department": "중대산업재해수사과",
@@ -240,7 +240,7 @@
     },
     {
       "department": "산재보상정책과",
-      "count": 10
+      "count": 11
     },
     {
       "department": "노무제공자안전보호과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 49
+      "count": 50
     },
     {
       "department": "중대산업재해수사과",
@@ -968,6 +968,18 @@
     ],
     "산재보상정책과": [
       {
+        "newsSeq": "19983",
+        "title": "김영훈 장관, 추석 연휴 앞두고 산재병원 위문 방문",
+        "publishedAt": "2026.09.21",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19983",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260901314&bbs_seq=19983&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260901314&bbs_seq=19983&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260921_보도자료_추석 연휴 앞두고 산재병원 위문 방문.pdf",
+        "coDepartments": [
+          "산재보상정책과"
+        ]
+      },
+      {
         "newsSeq": "19560",
         "title": "「고용보험법 시행령」, 「산업재해보상보험법 시행령」 개정안 국무회의 심의·의결",
         "publishedAt": "2026.06.23",
@@ -1451,6 +1463,18 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "19982",
+        "title": "HL만도 평택공장 산업안전 감독 결과 발표",
+        "publishedAt": "2026.09.21",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19982",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260901276&bbs_seq=19982&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260901276&bbs_seq=19982&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260921_보도자료_HL만도 평택공장 산업안전 감독 결과 발표.pdf",
+        "coDepartments": [
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19976",
         "title": "반도체 제조업 집중 점검 결과 발표",
