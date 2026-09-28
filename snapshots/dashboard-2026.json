@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T18:53:04.940Z",
-  "generatedAtKst": "2026. 9. 28. AM 3:53:04",
+  "generatedAt": "2026-09-28T21:03:32.018Z",
+  "generatedAtKst": "2026. 9. 29. AM 6:03:32",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 200,
+  "yearlyReleaseCount": 204,
   "scannedYearRows": 50,
   "items": [
     {
@@ -25,10 +25,10 @@
     },
     {
       "department": "산업안전기준과",
-      "newsSeq": "19956",
-      "title": "“위험은 더 잘 보이게, 안전은 더 가까이” 노동부 장관 ‘작업장 안전디자인 도입현장’ 방문",
-      "publishedAt": "2026.09.16",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19956"
+      "newsSeq": "20004",
+      "title": "“사업주는 갖추고, 노동자는 지키고” 안전모, 안전대, 안전띠 + 사다리 (3+1) 기초안전수칙 집중점",
+      "publishedAt": "2026.09.28",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20004"
     },
     {
       "department": "산재예방지원과",
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "19982",
-      "title": "HL만도 평택공장 산업안전 감독 결과 발표",
-      "publishedAt": "2026.09.21",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19982"
+      "newsSeq": "20004",
+      "title": "“사업주는 갖추고, 노동자는 지키고” 안전모, 안전대, 안전띠 + 사다리 (3+1) 기초안전수칙 집중점",
+      "publishedAt": "2026.09.28",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20004"
     },
     {
       "department": "중대산업재해수사과",
@@ -88,17 +88,17 @@
     },
     {
       "department": "건설산재예방감독과",
-      "newsSeq": "19898",
-      "title": "고용노동부, “특별한 성과에 합당한 보상” 노동·산업안전 우수직원 특별 포상",
-      "publishedAt": "2026.09.07",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19898"
+      "newsSeq": "20003",
+      "title": "가을철 공장·축사 등 지붕·태양광 공사 집중점검기간(9.28.~10.27.) 운영, ‘지붕·태양광 공사 추락주의보‘ 전파!",
+      "publishedAt": "2026.09.28",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20003"
     },
     {
       "department": "화학사고예방조사과",
-      "newsSeq": "19976",
-      "title": "반도체 제조업 집중 점검 결과 발표",
-      "publishedAt": "2026.09.20",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19976"
+      "newsSeq": "20004",
+      "title": "“사업주는 갖추고, 노동자는 지키고” 안전모, 안전대, 안전띠 + 사다리 (3+1) 기초안전수칙 집중점",
+      "publishedAt": "2026.09.28",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20004"
     },
     {
       "department": "로드맵이행총괄팀",
@@ -143,7 +143,7 @@
         },
         {
           "department": "산업안전기준과",
-          "count": 12
+          "count": 13
         },
         {
           "department": "산재예방지원과",
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 50
+          "count": 51
         },
         {
           "department": "중대산업재해수사과",
@@ -193,11 +193,11 @@
         },
         {
           "department": "건설산재예방감독과",
-          "count": 16
+          "count": 17
         },
         {
           "department": "화학사고예방조사과",
-          "count": 16
+          "count": 17
         }
       ]
     },
@@ -224,7 +224,7 @@
     },
     {
       "department": "산업안전기준과",
-      "count": 12
+      "count": 13
     },
     {
       "department": "산재예방지원과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 50
+      "count": 51
     },
     {
       "department": "중대산업재해수사과",
@@ -260,11 +260,11 @@
     },
     {
       "department": "건설산재예방감독과",
-      "count": 16
+      "count": 17
     },
     {
       "department": "화학사고예방조사과",
-      "count": 16
+      "count": 17
     },
     {
       "department": "로드맵이행총괄팀",
@@ -449,6 +449,20 @@
       }
     ],
     "산업안전기준과": [
+      {
+        "newsSeq": "20004",
+        "title": "“사업주는 갖추고, 노동자는 지키고” 안전모, 안전대, 안전띠 + 사다리 (3+1) 기초안전수칙 집중점",
+        "publishedAt": "2026.09.28",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20004",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260901574&bbs_seq=20004&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260901574&bbs_seq=20004&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260928_보도자료_10월 테마별 위험요인 현장 집중점검 주간 운영.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "산업안전기준과",
+          "화학사고예방조사과"
+        ]
+      },
       {
         "newsSeq": "19956",
         "title": "“위험은 더 잘 보이게, 안전은 더 가까이” 노동부 장관 ‘작업장 안전디자인 도입현장’ 방문",
@@ -1464,6 +1478,20 @@
     ],
     "안전보건감독기획과": [
       {
+        "newsSeq": "20004",
+        "title": "“사업주는 갖추고, 노동자는 지키고” 안전모, 안전대, 안전띠 + 사다리 (3+1) 기초안전수칙 집중점",
+        "publishedAt": "2026.09.28",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20004",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260901574&bbs_seq=20004&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260901574&bbs_seq=20004&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260928_보도자료_10월 테마별 위험요인 현장 집중점검 주간 운영.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "산업안전기준과",
+          "화학사고예방조사과"
+        ]
+      },
+      {
         "newsSeq": "19982",
         "title": "HL만도 평택공장 산업안전 감독 결과 발표",
         "publishedAt": "2026.09.21",
@@ -2358,6 +2386,18 @@
     ],
     "건설산재예방감독과": [
       {
+        "newsSeq": "20003",
+        "title": "가을철 공장·축사 등 지붕·태양광 공사 집중점검기간(9.28.~10.27.) 운영, ‘지붕·태양광 공사 추락주의보‘ 전파!",
+        "publishedAt": "2026.09.28",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20003",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260901572&bbs_seq=20003&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260901572&bbs_seq=20003&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260928_보도자료_가을철 공장 축사 등 지붕 태양광 공사 집중 점검기간 운영 및 추락주의보 전파.pdf",
+        "coDepartments": [
+          "건설산재예방감독과"
+        ]
+      },
+      {
         "newsSeq": "19898",
         "title": "고용노동부, “특별한 성과에 합당한 보상” 노동·산업안전 우수직원 특별 포상",
         "publishedAt": "2026.09.07",
@@ -2567,6 +2607,20 @@
       }
     ],
     "화학사고예방조사과": [
+      {
+        "newsSeq": "20004",
+        "title": "“사업주는 갖추고, 노동자는 지키고” 안전모, 안전대, 안전띠 + 사다리 (3+1) 기초안전수칙 집중점",
+        "publishedAt": "2026.09.28",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20004",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260901574&bbs_seq=20004&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260901574&bbs_seq=20004&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260928_보도자료_10월 테마별 위험요인 현장 집중점검 주간 운영.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "산업안전기준과",
+          "화학사고예방조사과"
+        ]
+      },
       {
         "newsSeq": "19976",
         "title": "반도체 제조업 집중 점검 결과 발표",
