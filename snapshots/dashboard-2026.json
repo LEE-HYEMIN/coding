@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T19:46:38.449Z",
-  "generatedAtKst": "2026. 9. 30. AM 4:46:38",
+  "generatedAt": "2026-09-30T19:48:28.780Z",
+  "generatedAtKst": "2026. 10. 1. AM 4:48:28",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 204,
+  "yearlyReleaseCount": 205,
   "scannedYearRows": 50,
   "items": [
     {
@@ -95,10 +95,10 @@
     },
     {
       "department": "화학사고예방조사과",
-      "newsSeq": "20004",
-      "title": "“사업주는 갖추고, 노동자는 지키고” 안전모, 안전대, 안전띠 + 사다리 (3+1) 기초안전수칙 집중점",
-      "publishedAt": "2026.09.28",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20004"
+      "newsSeq": "20020",
+      "title": "2026년 3분기 신규화학물질 63종 유해성·위험성 공표",
+      "publishedAt": "2026.09.30",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20020"
     },
     {
       "department": "로드맵이행총괄팀",
@@ -197,7 +197,7 @@
         },
         {
           "department": "화학사고예방조사과",
-          "count": 17
+          "count": 18
         }
       ]
     },
@@ -264,7 +264,7 @@
     },
     {
       "department": "화학사고예방조사과",
-      "count": 17
+      "count": 18
     },
     {
       "department": "로드맵이행총괄팀",
@@ -2607,6 +2607,18 @@
       }
     ],
     "화학사고예방조사과": [
+      {
+        "newsSeq": "20020",
+        "title": "2026년 3분기 신규화학물질 63종 유해성·위험성 공표",
+        "publishedAt": "2026.09.30",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20020",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20260901801&bbs_seq=20020&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20260901801&bbs_seq=20020&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "260930_보도자료_신규화학물질의 명칭 유해성 위험성 공표 등.pdf",
+        "coDepartments": [
+          "화학사고예방조사과"
+        ]
+      },
       {
         "newsSeq": "20004",
         "title": "“사업주는 갖추고, 노동자는 지키고” 안전모, 안전대, 안전띠 + 사다리 (3+1) 기초안전수칙 집중점",
