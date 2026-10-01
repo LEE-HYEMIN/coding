@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T19:48:28.780Z",
-  "generatedAtKst": "2026. 10. 1. AM 4:48:28",
+  "generatedAt": "2026-10-01T20:05:42.837Z",
+  "generatedAtKst": "2026. 10. 2. AM 5:05:42",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,22 +13,22 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 205,
+  "yearlyReleaseCount": 209,
   "scannedYearRows": 50,
   "items": [
     {
       "department": "산업안전정책과",
-      "newsSeq": "19865",
-      "title": "고용노동부 장관, 동일 반복 재해 근절을 위한 공공기관 점검 회의 개최",
-      "publishedAt": "2026.09.01",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19865"
+      "newsSeq": "20037",
+      "title": "(참고) 산업재해 예방을 위한 노사의 역할 강화 -산업안전보건법 개정안 국회 본회의 통과-",
+      "publishedAt": "2026.10.01",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20037"
     },
     {
       "department": "산업안전기준과",
-      "newsSeq": "20004",
-      "title": "“사업주는 갖추고, 노동자는 지키고” 안전모, 안전대, 안전띠 + 사다리 (3+1) 기초안전수칙 집중점",
-      "publishedAt": "2026.09.28",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20004"
+      "newsSeq": "20037",
+      "title": "(참고) 산업재해 예방을 위한 노사의 역할 강화 -산업안전보건법 개정안 국회 본회의 통과-",
+      "publishedAt": "2026.10.01",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20037"
     },
     {
       "department": "산재예방지원과",
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "20004",
-      "title": "“사업주는 갖추고, 노동자는 지키고” 안전모, 안전대, 안전띠 + 사다리 (3+1) 기초안전수칙 집중점",
-      "publishedAt": "2026.09.28",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20004"
+      "newsSeq": "20032",
+      "title": "한화에어로스페이스(주) 대전사업장 특별감독 결과 발표",
+      "publishedAt": "2026.10.01",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20032"
     },
     {
       "department": "중대산업재해수사과",
@@ -139,11 +139,11 @@
       "departments": [
         {
           "department": "산업안전정책과",
-          "count": 13
+          "count": 14
         },
         {
           "department": "산업안전기준과",
-          "count": 13
+          "count": 14
         },
         {
           "department": "산재예방지원과",
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 51
+          "count": 53
         },
         {
           "department": "중대산업재해수사과",
@@ -220,11 +220,11 @@
   "departmentStats": [
     {
       "department": "산업안전정책과",
-      "count": 13
+      "count": 14
     },
     {
       "department": "산업안전기준과",
-      "count": 13
+      "count": 14
     },
     {
       "department": "산재예방지원과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 51
+      "count": 53
     },
     {
       "department": "중대산업재해수사과",
@@ -277,6 +277,20 @@
   ],
   "departmentReleases": {
     "산업안전정책과": [
+      {
+        "newsSeq": "20037",
+        "title": "(참고) 산업재해 예방을 위한 노사의 역할 강화 -산업안전보건법 개정안 국회 본회의 통과-",
+        "publishedAt": "2026.10.01",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20037",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261000115&bbs_seq=20037&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261000115&bbs_seq=20037&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261001_보도참고_산업안전보건법 개정안 국회 본회의 통과.pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "산업안전기준과",
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "19865",
         "title": "고용노동부 장관, 동일 반복 재해 근절을 위한 공공기관 점검 회의 개최",
@@ -449,6 +463,20 @@
       }
     ],
     "산업안전기준과": [
+      {
+        "newsSeq": "20037",
+        "title": "(참고) 산업재해 예방을 위한 노사의 역할 강화 -산업안전보건법 개정안 국회 본회의 통과-",
+        "publishedAt": "2026.10.01",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20037",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261000115&bbs_seq=20037&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261000115&bbs_seq=20037&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261001_보도참고_산업안전보건법 개정안 국회 본회의 통과.pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "산업안전기준과",
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "20004",
         "title": "“사업주는 갖추고, 노동자는 지키고” 안전모, 안전대, 안전띠 + 사다리 (3+1) 기초안전수칙 집중점",
@@ -1477,6 +1505,32 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "20032",
+        "title": "한화에어로스페이스(주) 대전사업장 특별감독 결과 발표",
+        "publishedAt": "2026.10.01",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20032",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261000077&bbs_seq=20032&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261000077&bbs_seq=20032&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261001_보도자료_한화에어로스페이스(주)대전사업장 특별감독 결과 발표.pdf",
+        "coDepartments": [
+          "안전보건감독기획과"
+        ]
+      },
+      {
+        "newsSeq": "20037",
+        "title": "(참고) 산업재해 예방을 위한 노사의 역할 강화 -산업안전보건법 개정안 국회 본회의 통과-",
+        "publishedAt": "2026.10.01",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20037",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261000115&bbs_seq=20037&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261000115&bbs_seq=20037&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261001_보도참고_산업안전보건법 개정안 국회 본회의 통과.pdf",
+        "coDepartments": [
+          "산업안전정책과",
+          "산업안전기준과",
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "20004",
         "title": "“사업주는 갖추고, 노동자는 지키고” 안전모, 안전대, 안전띠 + 사다리 (3+1) 기초안전수칙 집중점",
