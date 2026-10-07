@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T21:48:36.668Z",
-  "generatedAtKst": "2026. 10. 6. AM 6:48:36",
+  "generatedAt": "2026-10-07T20:24:13.865Z",
+  "generatedAtKst": "2026. 10. 8. AM 5:24:13",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 209,
+  "yearlyReleaseCount": 210,
   "scannedYearRows": 50,
   "items": [
     {
@@ -81,10 +81,10 @@
     },
     {
       "department": "중대산업재해수사과",
-      "newsSeq": "19841",
-      "title": "(참고) 노동부장관, 충남 천안시 공장 화재사고 관련 사고수습·대응 철저 긴급지시",
-      "publishedAt": "2026.08.28",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19841"
+      "newsSeq": "20050",
+      "title": "재해 예방의 핵심 참고자료 「재해조사보고서」 117건 추가 공개",
+      "publishedAt": "2026.10.07",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20050"
     },
     {
       "department": "건설산재예방감독과",
@@ -189,7 +189,7 @@
         },
         {
           "department": "중대산업재해수사과",
-          "count": 18
+          "count": 19
         },
         {
           "department": "건설산재예방감독과",
@@ -256,7 +256,7 @@
     },
     {
       "department": "중대산업재해수사과",
-      "count": 18
+      "count": 19
     },
     {
       "department": "건설산재예방감독과",
@@ -2193,6 +2193,18 @@
       }
     ],
     "중대산업재해수사과": [
+      {
+        "newsSeq": "20050",
+        "title": "재해 예방의 핵심 참고자료 「재해조사보고서」 117건 추가 공개",
+        "publishedAt": "2026.10.07",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20050",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261000466&bbs_seq=20050&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261000466&bbs_seq=20050&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261007_보도자료_중대재해 원인조사 결과(재해조사보고서) 117건 추가 공개.pdf",
+        "coDepartments": [
+          "중대산업재해수사과"
+        ]
+      },
       {
         "newsSeq": "19841",
         "title": "(참고) 노동부장관, 충남 천안시 공장 화재사고 관련 사고수습·대응 철저 긴급지시",
