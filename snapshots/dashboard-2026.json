@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T18:53:30.747Z",
-  "generatedAtKst": "2026. 10. 21. AM 3:53:30",
+  "generatedAt": "2026-10-23T18:52:48.444Z",
+  "generatedAtKst": "2026. 10. 24. AM 3:52:48",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 217,
+  "yearlyReleaseCount": 219,
   "scannedYearRows": 50,
   "items": [
     {
@@ -25,10 +25,10 @@
     },
     {
       "department": "산업안전기준과",
-      "newsSeq": "20037",
-      "title": "(참고) 산업재해 예방을 위한 노사의 역할 강화 -산업안전보건법 개정안 국회 본회의 통과-",
-      "publishedAt": "2026.10.01",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20037"
+      "newsSeq": "20126",
+      "title": "풍력발전 유지·보수는 안전수칙 확인부터!",
+      "publishedAt": "2026.10.22",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20126"
     },
     {
       "department": "산재예방지원과",
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "20110",
-      "title": "“화재·폭발, 예방이 가장 강한 안전조치” 겨울철 앞두고 화재·폭발 집중점검",
-      "publishedAt": "2026.10.18",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20110"
+      "newsSeq": "20130",
+      "title": "쿠팡 산업안전·근로기준 감독 결과 발표",
+      "publishedAt": "2026.10.22",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20130"
     },
     {
       "department": "중대산업재해수사과",
@@ -143,7 +143,7 @@
         },
         {
           "department": "산업안전기준과",
-          "count": 14
+          "count": 15
         },
         {
           "department": "산재예방지원과",
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 55
+          "count": 56
         },
         {
           "department": "중대산업재해수사과",
@@ -224,7 +224,7 @@
     },
     {
       "department": "산업안전기준과",
-      "count": 14
+      "count": 15
     },
     {
       "department": "산재예방지원과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 55
+      "count": 56
     },
     {
       "department": "중대산업재해수사과",
@@ -463,6 +463,18 @@
       }
     ],
     "산업안전기준과": [
+      {
+        "newsSeq": "20126",
+        "title": "풍력발전 유지·보수는 안전수칙 확인부터!",
+        "publishedAt": "2026.10.22",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20126",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261001264&bbs_seq=20126&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261001264&bbs_seq=20126&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261022_보도자료_풍력발전 유지보수 안전수칙(OPS) 배포.pdf",
+        "coDepartments": [
+          "산업안전기준과"
+        ]
+      },
       {
         "newsSeq": "20037",
         "title": "(참고) 산업재해 예방을 위한 노사의 역할 강화 -산업안전보건법 개정안 국회 본회의 통과-",
@@ -1519,6 +1531,18 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "20130",
+        "title": "쿠팡 산업안전·근로기준 감독 결과 발표",
+        "publishedAt": "2026.10.22",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20130",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261001294&bbs_seq=20130&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261001294&bbs_seq=20130&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261022_보도자료_쿠팡 산업안전·근로기준 감독 결과 발표.pdf",
+        "coDepartments": [
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "20110",
         "title": "“화재·폭발, 예방이 가장 강한 안전조치” 겨울철 앞두고 화재·폭발 집중점검",
