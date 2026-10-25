@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T17:48:46.218Z",
-  "generatedAtKst": "2026. 10. 25. AM 2:48:46",
+  "generatedAt": "2026-10-25T18:06:10.351Z",
+  "generatedAtKst": "2026. 10. 26. AM 3:06:10",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 219,
+  "yearlyReleaseCount": 220,
   "scannedYearRows": 50,
   "items": [
     {
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "20130",
-      "title": "쿠팡 산업안전·근로기준 감독 결과 발표",
-      "publishedAt": "2026.10.22",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20130"
+      "newsSeq": "20136",
+      "title": "“신규 지방노동감독관, ‘감독학교’에서 베테랑의 노하우 배운다”",
+      "publishedAt": "2026.10.25",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20136"
     },
     {
       "department": "중대산업재해수사과",
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 56
+          "count": 57
         },
         {
           "department": "중대산업재해수사과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 56
+      "count": 57
     },
     {
       "department": "중대산업재해수사과",
@@ -1531,6 +1531,18 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "20136",
+        "title": "“신규 지방노동감독관, ‘감독학교’에서 베테랑의 노하우 배운다”",
+        "publishedAt": "2026.10.25",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20136",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261001405&bbs_seq=20136&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261001405&bbs_seq=20136&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261025_보도자료_제1차_신규_지방노동감독관_감독수사학교_교육_및_지방정부_감독_수행능력_점검_개시.pdf",
+        "coDepartments": [
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "20130",
         "title": "쿠팡 산업안전·근로기준 감독 결과 발표",
