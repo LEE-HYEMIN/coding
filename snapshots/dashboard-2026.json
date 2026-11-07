@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T20:41:20.439Z",
-  "generatedAtKst": "2026. 11. 7. AM 5:41:20",
+  "generatedAt": "2026-11-07T19:14:58.841Z",
+  "generatedAtKst": "2026. 11. 8. AM 4:14:58",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 230,
+  "yearlyReleaseCount": 231,
   "scannedYearRows": 50,
   "items": [
     {
@@ -81,10 +81,10 @@
     },
     {
       "department": "중대산업재해수사과",
-      "newsSeq": "20117",
-      "title": "2026년 3분기(누적) 산업재해 현황 부가통계",
-      "publishedAt": "2026.10.20",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20117"
+      "newsSeq": "20212",
+      "title": "(참고) 노동부 장관, 산업안전 대응 강화를 위한 긴급 기관장 회의 개최",
+      "publishedAt": "2026.11.07",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20212"
     },
     {
       "department": "건설산재예방감독과",
@@ -189,7 +189,7 @@
         },
         {
           "department": "중대산업재해수사과",
-          "count": 21
+          "count": 22
         },
         {
           "department": "건설산재예방감독과",
@@ -256,7 +256,7 @@
     },
     {
       "department": "중대산업재해수사과",
-      "count": 21
+      "count": 22
     },
     {
       "department": "건설산재예방감독과",
@@ -2391,6 +2391,18 @@
       }
     ],
     "중대산업재해수사과": [
+      {
+        "newsSeq": "20212",
+        "title": "(참고) 노동부 장관, 산업안전 대응 강화를 위한 긴급 기관장 회의 개최",
+        "publishedAt": "2026.11.07",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20212",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261100415&bbs_seq=20212&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261100415&bbs_seq=20212&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261107_보도참고_긴급 기관장회의.pdf",
+        "coDepartments": [
+          "중대산업재해수사과"
+        ]
+      },
       {
         "newsSeq": "20117",
         "title": "2026년 3분기(누적) 산업재해 현황 부가통계",
