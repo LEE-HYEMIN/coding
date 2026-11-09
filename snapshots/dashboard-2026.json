@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T19:19:24.064Z",
-  "generatedAtKst": "2026. 11. 9. AM 4:19:24",
+  "generatedAt": "2026-11-09T23:41:04.128Z",
+  "generatedAtKst": "2026. 11. 10. AM 8:41:04",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 231,
+  "yearlyReleaseCount": 232,
   "scannedYearRows": 50,
   "items": [
     {
@@ -74,10 +74,10 @@
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "20184",
-      "title": "청년 노동자의 장시간·공짜 노동 근절을 위한 장시간 노동 기획감독 실시",
-      "publishedAt": "2026.11.03",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20184"
+      "newsSeq": "20217",
+      "title": "㈜아워홈 산업안전·근로기준 합동 감독·점검 결과 발표",
+      "publishedAt": "2026.11.09",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20217"
     },
     {
       "department": "중대산업재해수사과",
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 60
+          "count": 61
         },
         {
           "department": "중대산업재해수사과",
@@ -252,7 +252,7 @@
     },
     {
       "department": "안전보건감독기획과",
-      "count": 60
+      "count": 61
     },
     {
       "department": "중대산업재해수사과",
@@ -1611,6 +1611,18 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "20217",
+        "title": "㈜아워홈 산업안전·근로기준 합동 감독·점검 결과 발표",
+        "publishedAt": "2026.11.09",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20217",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261100438&bbs_seq=20217&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261100438&bbs_seq=20217&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261109_보도자료_(주)아워홈 산업안전-근로기준 합동 감독점검 결과 발표.pdf",
+        "coDepartments": [
+          "안전보건감독기획과"
+        ]
+      },
       {
         "newsSeq": "20184",
         "title": "청년 노동자의 장시간·공짜 노동 근절을 위한 장시간 노동 기획감독 실시",
