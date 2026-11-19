@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T22:28:09.559Z",
-  "generatedAtKst": "2026. 11. 19. AM 7:28:09",
+  "generatedAt": "2026-11-19T22:33:19.733Z",
+  "generatedAtKst": "2026. 11. 20. AM 7:33:19",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 234,
+  "yearlyReleaseCount": 235,
   "scannedYearRows": 50,
   "items": [
     {
@@ -25,10 +25,10 @@
     },
     {
       "department": "산업안전기준과",
-      "newsSeq": "20147",
-      "title": "노사정이 함께 만드는 안전한 일터 구축을 위한 제도적 기반 -산업안전보건법 개정·공포-",
-      "publishedAt": "2026.10.27",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20147"
+      "newsSeq": "20274",
+      "title": "(참고) 고소작업대 과부하방지장치(AML) ‘위법 개조’ A제조업체 적발(익산지청)",
+      "publishedAt": "2026.11.19",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20274"
     },
     {
       "department": "산재예방지원과",
@@ -143,7 +143,7 @@
         },
         {
           "department": "산업안전기준과",
-          "count": 16
+          "count": 17
         },
         {
           "department": "산재예방지원과",
@@ -224,7 +224,7 @@
     },
     {
       "department": "산업안전기준과",
-      "count": 16
+      "count": 17
     },
     {
       "department": "산재예방지원과",
@@ -478,6 +478,18 @@
       }
     ],
     "산업안전기준과": [
+      {
+        "newsSeq": "20274",
+        "title": "(참고) 고소작업대 과부하방지장치(AML) ‘위법 개조’ A제조업체 적발(익산지청)",
+        "publishedAt": "2026.11.19",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20274",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261101305&bbs_seq=20274&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261101305&bbs_seq=20274&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261119_보도참고_고소작업대 과부하방지장치(AML) ‘위법 개조’ A제조업체 적발(익산지청).pdf",
+        "coDepartments": [
+          "산업안전기준과"
+        ]
+      },
       {
         "newsSeq": "20147",
         "title": "노사정이 함께 만드는 안전한 일터 구축을 위한 제도적 기반 -산업안전보건법 개정·공포-",
