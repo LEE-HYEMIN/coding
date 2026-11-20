@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T22:33:19.733Z",
-  "generatedAtKst": "2026. 11. 20. AM 7:33:19",
+  "generatedAt": "2026-11-20T22:06:09.764Z",
+  "generatedAtKst": "2026. 11. 21. AM 7:06:09",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 235,
+  "yearlyReleaseCount": 238,
   "scannedYearRows": 50,
   "items": [
     {
@@ -67,17 +67,17 @@
     },
     {
       "department": "직업건강증진팀",
-      "newsSeq": "20249",
-      "title": "「작업시간대 조정 집중 지도」 한파 대비 노동자 건강보호 대책 추진",
-      "publishedAt": "2026.11.13",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20249"
+      "newsSeq": "20281",
+      "title": "(참고) 서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인",
+      "publishedAt": "2026.11.20",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20281"
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "20244",
-      "title": "(참고) 노동부 장관-전국 지방노동관서장, 중대재해 취약현장 일제 불시점검",
-      "publishedAt": "2026.11.12",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20244"
+      "newsSeq": "20281",
+      "title": "(참고) 서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인",
+      "publishedAt": "2026.11.20",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20281"
     },
     {
       "department": "중대산업재해수사과",
@@ -88,10 +88,10 @@
     },
     {
       "department": "건설산재예방감독과",
-      "newsSeq": "20147",
-      "title": "노사정이 함께 만드는 안전한 일터 구축을 위한 제도적 기반 -산업안전보건법 개정·공포-",
-      "publishedAt": "2026.10.27",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20147"
+      "newsSeq": "20281",
+      "title": "(참고) 서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인",
+      "publishedAt": "2026.11.20",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20281"
     },
     {
       "department": "화학사고예방조사과",
@@ -174,7 +174,7 @@
         },
         {
           "department": "직업건강증진팀",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 62
+          "count": 63
         },
         {
           "department": "중대산업재해수사과",
@@ -193,7 +193,7 @@
         },
         {
           "department": "건설산재예방감독과",
-          "count": 19
+          "count": 20
         },
         {
           "department": "화학사고예방조사과",
@@ -248,11 +248,11 @@
     },
     {
       "department": "직업건강증진팀",
-      "count": 26
+      "count": 27
     },
     {
       "department": "안전보건감독기획과",
-      "count": 62
+      "count": 63
     },
     {
       "department": "중대산업재해수사과",
@@ -260,7 +260,7 @@
     },
     {
       "department": "건설산재예방감독과",
-      "count": 19
+      "count": 20
     },
     {
       "department": "화학사고예방조사과",
@@ -1302,6 +1302,20 @@
     ],
     "직업건강증진팀": [
       {
+        "newsSeq": "20281",
+        "title": "(참고) 서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인",
+        "publishedAt": "2026.11.20",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20281",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261101401&bbs_seq=20281&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261101401&bbs_seq=20281&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261120_보도참고_서대문구 건설현장 일제 패트롤 점검.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "직업건강증진팀",
+          "건설산재예방감독과"
+        ]
+      },
+      {
         "newsSeq": "20249",
         "title": "「작업시간대 조정 집중 지도」 한파 대비 노동자 건강보호 대책 추진",
         "publishedAt": "2026.11.13",
@@ -1635,6 +1649,20 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "20281",
+        "title": "(참고) 서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인",
+        "publishedAt": "2026.11.20",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20281",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261101401&bbs_seq=20281&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261101401&bbs_seq=20281&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261120_보도참고_서대문구 건설현장 일제 패트롤 점검.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "직업건강증진팀",
+          "건설산재예방감독과"
+        ]
+      },
       {
         "newsSeq": "20244",
         "title": "(참고) 노동부 장관-전국 지방노동관서장, 중대재해 취약현장 일제 불시점검",
@@ -2733,6 +2761,20 @@
       }
     ],
     "건설산재예방감독과": [
+      {
+        "newsSeq": "20281",
+        "title": "(참고) 서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인",
+        "publishedAt": "2026.11.20",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20281",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261101401&bbs_seq=20281&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261101401&bbs_seq=20281&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261120_보도참고_서대문구 건설현장 일제 패트롤 점검.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "직업건강증진팀",
+          "건설산재예방감독과"
+        ]
+      },
       {
         "newsSeq": "20147",
         "title": "노사정이 함께 만드는 안전한 일터 구축을 위한 제도적 기반 -산업안전보건법 개정·공포-",
