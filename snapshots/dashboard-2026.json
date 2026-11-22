@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T20:45:58.022Z",
-  "generatedAtKst": "2026. 11. 22. AM 5:45:58",
+  "generatedAt": "2026-11-22T20:55:13.871Z",
+  "generatedAtKst": "2026. 11. 23. AM 5:55:13",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 238,
+  "yearlyReleaseCount": 240,
   "scannedYearRows": 50,
   "items": [
     {
@@ -67,17 +67,17 @@
     },
     {
       "department": "직업건강증진팀",
-      "newsSeq": "20281",
-      "title": "(참고) 서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인",
-      "publishedAt": "2026.11.20",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20281"
+      "newsSeq": "20287",
+      "title": "“추위가 재해가 되기 전에” 겨울철 한랭질환 예방 집중점검",
+      "publishedAt": "2026.11.22",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20287"
     },
     {
       "department": "안전보건감독기획과",
-      "newsSeq": "20281",
-      "title": "(참고) 서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인",
-      "publishedAt": "2026.11.20",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20281"
+      "newsSeq": "20287",
+      "title": "“추위가 재해가 되기 전에” 겨울철 한랭질환 예방 집중점검",
+      "publishedAt": "2026.11.22",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20287"
     },
     {
       "department": "중대산업재해수사과",
@@ -174,7 +174,7 @@
         },
         {
           "department": "직업건강증진팀",
-          "count": 27
+          "count": 28
         }
       ]
     },
@@ -185,7 +185,7 @@
       "departments": [
         {
           "department": "안전보건감독기획과",
-          "count": 63
+          "count": 64
         },
         {
           "department": "중대산업재해수사과",
@@ -248,11 +248,11 @@
     },
     {
       "department": "직업건강증진팀",
-      "count": 27
+      "count": 28
     },
     {
       "department": "안전보건감독기획과",
-      "count": 63
+      "count": 64
     },
     {
       "department": "중대산업재해수사과",
@@ -1302,6 +1302,19 @@
     ],
     "직업건강증진팀": [
       {
+        "newsSeq": "20287",
+        "title": "“추위가 재해가 되기 전에” 겨울철 한랭질환 예방 집중점검",
+        "publishedAt": "2026.11.22",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20287",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261101460&bbs_seq=20287&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261101460&bbs_seq=20287&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261122_보도자료_'26년_12월_테마별_위험요인_현장_집중_점검주간_운영.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "직업건강증진팀"
+        ]
+      },
+      {
         "newsSeq": "20281",
         "title": "(참고) 서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인",
         "publishedAt": "2026.11.20",
@@ -1649,6 +1662,19 @@
       }
     ],
     "안전보건감독기획과": [
+      {
+        "newsSeq": "20287",
+        "title": "“추위가 재해가 되기 전에” 겨울철 한랭질환 예방 집중점검",
+        "publishedAt": "2026.11.22",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20287",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261101460&bbs_seq=20287&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261101460&bbs_seq=20287&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261122_보도자료_'26년_12월_테마별_위험요인_현장_집중_점검주간_운영.pdf",
+        "coDepartments": [
+          "안전보건감독기획과",
+          "직업건강증진팀"
+        ]
+      },
       {
         "newsSeq": "20281",
         "title": "(참고) 서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인",
