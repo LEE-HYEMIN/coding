@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T23:44:58.685Z",
-  "generatedAtKst": "2026. 11. 25. AM 8:44:58",
+  "generatedAt": "2026-11-25T23:28:02.410Z",
+  "generatedAtKst": "2026. 11. 26. AM 8:28:02",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 242,
+  "yearlyReleaseCount": 243,
   "scannedYearRows": 50,
   "items": [
     {
@@ -109,10 +109,10 @@
     },
     {
       "department": "안전문화협력팀",
-      "newsSeq": "19546",
-      "title": "(참고) 외국인 노동자 기초안전보건교육 강화",
-      "publishedAt": "2026.06.18",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=19546"
+      "newsSeq": "20307",
+      "title": "노사와 지역사회가 함께 만드는 안전문화",
+      "publishedAt": "2026.11.25",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20307"
     }
   ],
   "officialDepartments": [
@@ -212,7 +212,7 @@
         },
         {
           "department": "안전문화협력팀",
-          "count": 6
+          "count": 7
         }
       ]
     }
@@ -272,7 +272,7 @@
     },
     {
       "department": "안전문화협력팀",
-      "count": 6
+      "count": 7
     }
   ],
   "departmentReleases": {
@@ -3372,6 +3372,18 @@
       }
     ],
     "안전문화협력팀": [
+      {
+        "newsSeq": "20307",
+        "title": "노사와 지역사회가 함께 만드는 안전문화",
+        "publishedAt": "2026.11.25",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20307",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261101731&bbs_seq=20307&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261101731&bbs_seq=20307&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261125_보도자료_안전문화실천추진단 우수사례 발표대회 개최.pdf",
+        "coDepartments": [
+          "안전문화협력팀"
+        ]
+      },
       {
         "newsSeq": "19546",
         "title": "(참고) 외국인 노동자 기초안전보건교육 강화",
