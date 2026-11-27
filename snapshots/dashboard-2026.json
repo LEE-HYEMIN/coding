@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T23:28:30.565Z",
-  "generatedAtKst": "2026. 11. 27. AM 8:28:30",
+  "generatedAt": "2026-11-27T23:12:31.409Z",
+  "generatedAtKst": "2026. 11. 28. AM 8:12:31",
   "selectedYear": 2026,
   "availableYears": [
     2026,
@@ -13,7 +13,7 @@
     "url": "https://www.moel.go.kr/news/enews/report/enewsList.do"
   },
   "totalCount": 14,
-  "yearlyReleaseCount": 244,
+  "yearlyReleaseCount": 245,
   "scannedYearRows": 50,
   "items": [
     {
@@ -88,10 +88,10 @@
     },
     {
       "department": "건설산재예방감독과",
-      "newsSeq": "20281",
-      "title": "(참고) 서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인",
-      "publishedAt": "2026.11.20",
-      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20281"
+      "newsSeq": "20315",
+      "title": "건설기계·장비사고 예방, 전국 8개 권역 릴레이 세미나 마무리",
+      "publishedAt": "2026.11.27",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20315"
     },
     {
       "department": "화학사고예방조사과",
@@ -193,7 +193,7 @@
         },
         {
           "department": "건설산재예방감독과",
-          "count": 20
+          "count": 21
         },
         {
           "department": "화학사고예방조사과",
@@ -260,7 +260,7 @@
     },
     {
       "department": "건설산재예방감독과",
-      "count": 20
+      "count": 21
     },
     {
       "department": "화학사고예방조사과",
@@ -2823,6 +2823,18 @@
       }
     ],
     "건설산재예방감독과": [
+      {
+        "newsSeq": "20315",
+        "title": "건설기계·장비사고 예방, 전국 8개 권역 릴레이 세미나 마무리",
+        "publishedAt": "2026.11.27",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20315",
+        "previewUrl": "https://www.moel.go.kr/common/filePreview.do?file_seq=20261101856&bbs_seq=20315&bbs_id=12",
+        "downloadUrl": "https://www.moel.go.kr/common/downloadFile.do?file_seq=20261101856&bbs_seq=20315&bbs_id=12&file_ext=pdf",
+        "viewerFileName": "261127_보도자료_'26년 건설기계 사고 예방 릴레이 세미나.pdf",
+        "coDepartments": [
+          "건설산재예방감독과"
+        ]
+      },
       {
         "newsSeq": "20281",
         "title": "(참고) 서울 서대문구 일대 중·소 건설현장 일제 패트롤 점검, 한파·추락 등 기본 안전조치 집중 확인",
